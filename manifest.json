@@ -1,0 +1,90 @@
+{
+   "author": "Carlos Jeurissen",
+   "background": {
+      "page": "/views/background.html",
+      "persistent": false
+   },
+   "browser_action": {
+      "browser_style": false,
+      "default_icon": {
+         "16": "/images/action/alg/alg-16.png",
+         "19": "/images/action/alg/alg-19.png",
+         "32": "/images/action/alg/alg-32.png",
+         "38": "/images/action/alg/alg-38.png"
+      },
+      "default_popup": "/views/app.html",
+      "default_title": "__MSG_cj_i18n_01675__"
+   },
+   "browser_specific_settings": {
+      "gecko": {
+         "id": "{5C46D283-ABDE-4dce-B83C-08881401921C}"
+      }
+   },
+   "commands": {
+      "_execute_browser_action": {
+         "description": "__MSG_cj_i18n_01675__"
+      }
+   },
+   "container": "GOOGLE_DRIVE",
+   "content_scripts": [ {
+      "css": [ "/styles/cs-tasks.css" ],
+      "include_globs": [ "https://tasks.google.com/*" ],
+      "js": [ "/scripts/cs-tasks.js" ],
+      "matches": [ "https://*.google.com/embed/*", "https://*.google.com/u/?/embed/*" ],
+      "run_at": "document_start"
+   }, {
+      "css": [ "/styles/cs-packages.css" ],
+      "exclude_globs": [ "https://www.google.com/travel*gl=us" ],
+      "include_globs": [ "https://www.google.com/travel/flights-hotels*", "https://www.google.com/travel/packages*", "https://www.google.com/u/?/travel/flights-hotels*", "https://www.google.com/u/?/travel/packages*" ],
+      "js": [ "/scripts/cs-packages.js" ],
+      "matches": [ "https://*.google.com/travel*", "https://*.google.com/u/?/travel*" ],
+      "run_at": "document_start"
+   }, {
+      "js": [ "/scripts/webext-flags.js", "/scripts/cs-applauncher.js" ],
+      "matches": [ "*://*.google.ac/*", "*://*.google.ad/*", "*://*.google.ae/*", "*://*.google.am/*", "*://*.google.as/*", "*://*.google.at/*", "*://*.google.az/*", "*://*.google.ba/*", "*://*.google.be/*", "*://*.google.bf/*", "*://*.google.bg/*", "*://*.google.bi/*", "*://*.google.bj/*", "*://*.google.bs/*", "*://*.google.by/*", "*://*.google.ca/*", "*://*.google.cat/*", "*://*.google.cc/*", "*://*.google.cd/*", "*://*.google.cf/*", "*://*.google.cg/*", "*://*.google.ch/*", "*://*.google.ci/*", "*://*.google.cl/*", "*://*.google.cm/*", "*://*.google.cn/*", "*://*.google.co.bw/*", "*://*.google.co.ck/*", "*://*.google.co.cr/*", "*://*.google.co.id/*", "*://*.google.co.il/*", "*://*.google.co.in/*", "*://*.google.co.jp/*", "*://*.google.co.ke/*", "*://*.google.co.kr/*", "*://*.google.co.ls/*", "*://*.google.co.ma/*", "*://*.google.co.mz/*", "*://*.google.co.nz/*", "*://*.google.co.th/*", "*://*.google.co.tz/*", "*://*.google.co.ug/*", "*://*.google.co.uk/*", "*://*.google.co.uz/*", "*://*.google.co.ve/*", "*://*.google.co.vi/*", "*://*.google.co.za/*", "*://*.google.co.zm/*", "*://*.google.co.zw/*", "*://*.google.com/*", "*://*.google.com.af/*", "*://*.google.com.ag/*", "*://*.google.com.ai/*", "*://*.google.com.ar/*", "*://*.google.com.au/*", "*://*.google.com.bd/*", "*://*.google.com.bh/*", "*://*.google.com.bn/*", "*://*.google.com.bo/*", "*://*.google.com.br/*", "*://*.google.com.by/*", "*://*.google.com.bz/*", "*://*.google.com.co/*", "*://*.google.com.cu/*", "*://*.google.com.cy/*", "*://*.google.com.do/*", "*://*.google.com.ec/*", "*://*.google.com.eg/*", "*://*.google.com.et/*", "*://*.google.com.fj/*", "*://*.google.com.gh/*", "*://*.google.com.gi/*", "*://*.google.com.gt/*", "*://*.google.com.hk/*", "*://*.google.com.jm/*", "*://*.google.com.kh/*", "*://*.google.com.kh/*", "*://*.google.com.kw/*", "*://*.google.com.lb/*", "*://*.google.com.lc/*", "*://*.google.com.ly/*", "*://*.google.com.mt/*", "*://*.google.com.mx/*", "*://*.google.com.my/*", "*://*.google.com.na/*", "*://*.google.com.nf/*", "*://*.google.com.ng/*", "*://*.google.com.ni/*", "*://*.google.com.np/*", "*://*.google.com.om/*", "*://*.google.com.pa/*", "*://*.google.com.pe/*", "*://*.google.com.ph/*", "*://*.google.com.pk/*", "*://*.google.com.pr/*", "*://*.google.com.py/*", "*://*.google.com.qa/*", "*://*.google.com.sa/*", "*://*.google.com.sb/*", "*://*.google.com.sg/*", "*://*.google.com.sl/*", "*://*.google.com.sv/*", "*://*.google.com.tj/*", "*://*.google.com.tn/*", "*://*.google.com.tr/*", "*://*.google.com.tw/*", "*://*.google.com.ua/*", "*://*.google.com.uy/*", "*://*.google.com.vc/*", "*://*.google.com.vn/*", "*://*.google.cv/*", "*://*.google.cz/*", "*://*.google.de/*", "*://*.google.dj/*", "*://*.google.dk/*", "*://*.google.dm/*", "*://*.google.dz/*", "*://*.google.ee/*", "*://*.google.es/*", "*://*.google.fi/*", "*://*.google.fm/*", "*://*.google.fr/*", "*://*.google.ga/*", "*://*.google.gd/*", "*://*.google.ge/*", "*://*.google.gf/*", "*://*.google.gg/*", "*://*.google.gl/*", "*://*.google.gm/*", "*://*.google.gp/*", "*://*.google.gr/*", "*://*.google.gy/*", "*://*.google.hn/*", "*://*.google.hr/*", "*://*.google.ht/*", "*://*.google.hu/*", "*://*.google.ie/*", "*://*.google.im/*", "*://*.google.io/*", "*://*.google.iq/*", "*://*.google.is/*", "*://*.google.it.ao/*", "*://*.google.it/*", "*://*.google.je/*", "*://*.google.jo/*", "*://*.google.kg/*", "*://*.google.ki/*", "*://*.google.kz/*", "*://*.google.la/*", "*://*.google.li/*", "*://*.google.lk/*", "*://*.google.lt/*", "*://*.google.lu/*", "*://*.google.lv/*", "*://*.google.md/*", "*://*.google.me/*", "*://*.google.mg/*", "*://*.google.mk/*", "*://*.google.ml/*", "*://*.google.mn/*", "*://*.google.ms/*", "*://*.google.mu/*", "*://*.google.mv/*", "*://*.google.mw/*", "*://*.google.ne/*", "*://*.google.nl/*", "*://*.google.no/*", "*://*.google.nr/*", "*://*.google.nu/*", "*://*.google.pl/*", "*://*.google.pn/*", "*://*.google.ps/*", "*://*.google.pt/*", "*://*.google.ro/*", "*://*.google.rs/*", "*://*.google.ru/*", "*://*.google.rw/*", "*://*.google.sc/*", "*://*.google.se/*", "*://*.google.sh/*", "*://*.google.si/*", "*://*.google.sk/*", "*://*.google.sm/*", "*://*.google.sn/*", "*://*.google.so/*", "*://*.google.st/*", "*://*.google.td/*", "*://*.google.tg/*", "*://*.google.tk/*", "*://*.google.tl/*", "*://*.google.tm/*", "*://*.google.to/*", "*://*.google.tt/*", "*://*.google.us/*", "*://*.google.vg/*", "*://*.google.vu/*", "*://*.google.ws/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "include_globs": [ "https://ogs.google.*/*" ],
+      "js": [ "/scripts/cs-ogsframe.js" ],
+      "matches": [ "*://*.google.ac/*", "*://*.google.ad/*", "*://*.google.ae/*", "*://*.google.am/*", "*://*.google.as/*", "*://*.google.at/*", "*://*.google.az/*", "*://*.google.ba/*", "*://*.google.be/*", "*://*.google.bf/*", "*://*.google.bg/*", "*://*.google.bi/*", "*://*.google.bj/*", "*://*.google.bs/*", "*://*.google.by/*", "*://*.google.ca/*", "*://*.google.cat/*", "*://*.google.cc/*", "*://*.google.cd/*", "*://*.google.cf/*", "*://*.google.cg/*", "*://*.google.ch/*", "*://*.google.ci/*", "*://*.google.cl/*", "*://*.google.cm/*", "*://*.google.cn/*", "*://*.google.co.bw/*", "*://*.google.co.ck/*", "*://*.google.co.cr/*", "*://*.google.co.id/*", "*://*.google.co.il/*", "*://*.google.co.in/*", "*://*.google.co.jp/*", "*://*.google.co.ke/*", "*://*.google.co.kr/*", "*://*.google.co.ls/*", "*://*.google.co.ma/*", "*://*.google.co.mz/*", "*://*.google.co.nz/*", "*://*.google.co.th/*", "*://*.google.co.tz/*", "*://*.google.co.ug/*", "*://*.google.co.uk/*", "*://*.google.co.uz/*", "*://*.google.co.ve/*", "*://*.google.co.vi/*", "*://*.google.co.za/*", "*://*.google.co.zm/*", "*://*.google.co.zw/*", "*://*.google.com/*", "*://*.google.com.af/*", "*://*.google.com.ag/*", "*://*.google.com.ai/*", "*://*.google.com.ar/*", "*://*.google.com.au/*", "*://*.google.com.bd/*", "*://*.google.com.bh/*", "*://*.google.com.bn/*", "*://*.google.com.bo/*", "*://*.google.com.br/*", "*://*.google.com.by/*", "*://*.google.com.bz/*", "*://*.google.com.co/*", "*://*.google.com.cu/*", "*://*.google.com.cy/*", "*://*.google.com.do/*", "*://*.google.com.ec/*", "*://*.google.com.eg/*", "*://*.google.com.et/*", "*://*.google.com.fj/*", "*://*.google.com.gh/*", "*://*.google.com.gi/*", "*://*.google.com.gt/*", "*://*.google.com.hk/*", "*://*.google.com.jm/*", "*://*.google.com.kh/*", "*://*.google.com.kh/*", "*://*.google.com.kw/*", "*://*.google.com.lb/*", "*://*.google.com.lc/*", "*://*.google.com.ly/*", "*://*.google.com.mt/*", "*://*.google.com.mx/*", "*://*.google.com.my/*", "*://*.google.com.na/*", "*://*.google.com.nf/*", "*://*.google.com.ng/*", "*://*.google.com.ni/*", "*://*.google.com.np/*", "*://*.google.com.om/*", "*://*.google.com.pa/*", "*://*.google.com.pe/*", "*://*.google.com.ph/*", "*://*.google.com.pk/*", "*://*.google.com.pr/*", "*://*.google.com.py/*", "*://*.google.com.qa/*", "*://*.google.com.sa/*", "*://*.google.com.sb/*", "*://*.google.com.sg/*", "*://*.google.com.sl/*", "*://*.google.com.sv/*", "*://*.google.com.tj/*", "*://*.google.com.tn/*", "*://*.google.com.tr/*", "*://*.google.com.tw/*", "*://*.google.com.ua/*", "*://*.google.com.uy/*", "*://*.google.com.vc/*", "*://*.google.com.vn/*", "*://*.google.cv/*", "*://*.google.cz/*", "*://*.google.de/*", "*://*.google.dj/*", "*://*.google.dk/*", "*://*.google.dm/*", "*://*.google.dz/*", "*://*.google.ee/*", "*://*.google.es/*", "*://*.google.fi/*", "*://*.google.fm/*", "*://*.google.fr/*", "*://*.google.ga/*", "*://*.google.gd/*", "*://*.google.ge/*", "*://*.google.gf/*", "*://*.google.gg/*", "*://*.google.gl/*", "*://*.google.gm/*", "*://*.google.gp/*", "*://*.google.gr/*", "*://*.google.gy/*", "*://*.google.hn/*", "*://*.google.hr/*", "*://*.google.ht/*", "*://*.google.hu/*", "*://*.google.ie/*", "*://*.google.im/*", "*://*.google.io/*", "*://*.google.iq/*", "*://*.google.is/*", "*://*.google.it.ao/*", "*://*.google.it/*", "*://*.google.je/*", "*://*.google.jo/*", "*://*.google.kg/*", "*://*.google.ki/*", "*://*.google.kz/*", "*://*.google.la/*", "*://*.google.li/*", "*://*.google.lk/*", "*://*.google.lt/*", "*://*.google.lu/*", "*://*.google.lv/*", "*://*.google.md/*", "*://*.google.me/*", "*://*.google.mg/*", "*://*.google.mk/*", "*://*.google.ml/*", "*://*.google.mn/*", "*://*.google.ms/*", "*://*.google.mu/*", "*://*.google.mv/*", "*://*.google.mw/*", "*://*.google.ne/*", "*://*.google.nl/*", "*://*.google.no/*", "*://*.google.nr/*", "*://*.google.nu/*", "*://*.google.pl/*", "*://*.google.pn/*", "*://*.google.ps/*", "*://*.google.pt/*", "*://*.google.ro/*", "*://*.google.rs/*", "*://*.google.ru/*", "*://*.google.rw/*", "*://*.google.sc/*", "*://*.google.se/*", "*://*.google.sh/*", "*://*.google.si/*", "*://*.google.sk/*", "*://*.google.sm/*", "*://*.google.sn/*", "*://*.google.so/*", "*://*.google.st/*", "*://*.google.td/*", "*://*.google.tg/*", "*://*.google.tk/*", "*://*.google.tl/*", "*://*.google.tm/*", "*://*.google.to/*", "*://*.google.tt/*", "*://*.google.us/*", "*://*.google.vg/*", "*://*.google.vu/*", "*://*.google.ws/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "default-src 'none'; child-src 'none'; manifest-src 'none'; frame-src 'none'; media-src 'none'; object-src 'none'; prefetch-src 'none'; worker-src 'none'; connect-src https: chrome-extension: https://accounts.google.com/ https://ogs.google.com/ https://www.googleapis.com/appsmarket/v2/installedApps/; font-src 'self'; img-src https: http: data:; style-src 'self' 'unsafe-inline'; style-src-elem 'self' 'unsafe-inline'; style-src-attr 'self' 'unsafe-inline'; script-src 'self'; script-src-elem 'self'; script-src-attr 'none'; base-uri 'none'; form-action 'none'; report-uri https://api.jeurissen.co/reports/csp/webext/main-edge/v24_2_0/",
+   "default_locale": "en",
+   "description": "__MSG_cj_i18n_01718__",
+   "developer": {
+      "name": "Carlos Jeurissen",
+      "url": "https://apps.jeurissen.co/"
+   },
+   "externally_connectable": {
+      "accepts_tls_channel_id": false,
+      "ids": [ "aiekbiaglgnfojebpkemjkgaofkhfodf", "jegfmclagmheobcjojbiohjekamkpbeb", "odhlcadbopildpgohnmnknegjdnnpehl", "ponjkmladgjfjgllmhnkhgbgocdigcjm" ]
+   },
+   "homepage_url": "https://apps.jeurissen.co/g-app-launcher",
+   "icons": {
+      "128": "/images/extension/alg/icon-128.png",
+      "16": "/images/extension/alg/icon-16.png",
+      "256": "/images/extension/alg/icon-256.png",
+      "32": "/images/extension/alg/icon-32.png",
+      "48": "/images/extension/alg/icon-48.png",
+      "96": "/images/extension/alg/icon-96.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsZylGziHNHshi6n1hIJQegk04wU1/sFuvVG3wUP6ga8DDcvaIU1TansLYlTvQq2DU8oYDMmtNmIEGUVh2I1g1K3pLTa5gsjO/846ejk/m2b5H/JxIrKeAOsN7mnuGf4btEOU3WVBs4r8OBQlS5s/7gwpMerhyxpbKUFes8DZefS/dj2XUkmBl6uvCcYNVF5+pha9eS9ugS3bA+AU5rlUxw0ZnVHYhaI8aQzZR1+5Q5sK449pYgguskWQCdM0JKG9jkSzB8uqHuromc8ots55xr/H9hPfi6VBx+b8u2QOkr+K2LNiE7cBcLDHsNbXgPtUUB5Z39ki07ZVuyVY6tVjmwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "21",
+   "minimum_opera_version": "15",
+   "name": "G App Launcher (Shortcuts for Google™)",
+   "offline_enabled": true,
+   "options_page": "/views/options.html?standalone=1",
+   "options_ui": {
+      "browser_style": false,
+      "open_in_tab": true,
+      "page": "/views/options.html?standalone=1"
+   },
+   "permissions": [ "http://*/**", "https://*/**", "storage", "tabs" ],
+   "short_name": "G App Launcher",
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "24.2.0",
+   "web_accessible_resources": [ "/views/embed.html" ]
+}

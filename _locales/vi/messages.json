@@ -1,0 +1,383 @@
+{
+   "cj_i18n_00002": {
+      "message": "Chia sẻ với tôi"
+   },
+   "cj_i18n_00004": {
+      "message": "Dấu sao"
+   },
+   "cj_i18n_00005": {
+      "message": "Thư rác"
+   },
+   "cj_i18n_00061": {
+      "message": "Khám phá"
+   },
+   "cj_i18n_00081": {
+      "message": "Nhắc nhở"
+   },
+   "cj_i18n_00085": {
+      "message": "Tìm kiếm"
+   },
+   "cj_i18n_00097": {
+      "message": "Kéo thả vào đây để xóa bỏ"
+   },
+   "cj_i18n_00131": {
+      "message": "Thư viện"
+   },
+   "cj_i18n_00153": {
+      "message": "Xu hướng"
+   },
+   "cj_i18n_00155": {
+      "message": "Lịch sử"
+   },
+   "cj_i18n_00177": {
+      "message": "Quản trị"
+   },
+   "cj_i18n_00190": {
+      "message": "Dấu trang"
+   },
+   "cj_i18n_00216": {
+      "message": "Ứng dụng"
+   },
+   "cj_i18n_00240": {
+      "message": "Người dùng"
+   },
+   "cj_i18n_00243": {
+      "message": "Di chuyển dữ liệu"
+   },
+   "cj_i18n_00244": {
+      "message": "Tài sản"
+   },
+   "cj_i18n_00246": {
+      "message": "Quản lý thiết bị"
+   },
+   "cj_i18n_00247": {
+      "message": "Hỗ trợ"
+   },
+   "cj_i18n_00248": {
+      "message": "Nhóm"
+   },
+   "cj_i18n_00250": {
+      "message": "An ninh"
+   },
+   "cj_i18n_00251": {
+      "message": "Phiếu"
+   },
+   "cj_i18n_00292": {
+      "message": "Bộ sưu tập"
+   },
+   "cj_i18n_00293": {
+      "message": "Cộng đồng"
+   },
+   "cj_i18n_00294": {
+      "message": "Hồ sơ"
+   },
+   "cj_i18n_00295": {
+      "message": "Mọi người"
+   },
+   "cj_i18n_00296": {
+      "message": "Thông báo"
+   },
+   "cj_i18n_00298": {
+      "message": "Cài đặt"
+   },
+   "cj_i18n_00302": {
+      "message": "Lịch"
+   },
+   "cj_i18n_00305": {
+      "message": "Lớp học"
+   },
+   "cj_i18n_00314": {
+      "message": "Danh bạ"
+   },
+   "cj_i18n_00391": {
+      "message": "Tài liệu"
+   },
+   "cj_i18n_00406": {
+      "message": "Tìm kiếm nâng cao"
+   },
+   "cj_i18n_00412": {
+      "message": "Tài chính"
+   },
+   "cj_i18n_00414": {
+      "message": "Chuyến bay"
+   },
+   "cj_i18n_00418": {
+      "message": "Nhóm"
+   },
+   "cj_i18n_00423": {
+      "message": "Bản đồ"
+   },
+   "cj_i18n_00425": {
+      "message": "Tin tức"
+   },
+   "cj_i18n_00427": {
+      "message": "Bằng sáng chế"
+   },
+   "cj_i18n_00429": {
+      "message": "Ảnh"
+   },
+   "cj_i18n_00434": {
+      "message": "Tìm kiếm"
+   },
+   "cj_i18n_00435": {
+      "message": "Mua sắm"
+   },
+   "cj_i18n_00438": {
+      "message": "Trợ giúp"
+   },
+   "cj_i18n_00440": {
+      "message": "Dịch"
+   },
+   "cj_i18n_00441": {
+      "message": "Xu hướng"
+   },
+   "cj_i18n_00460": {
+      "message": "Sách"
+   },
+   "cj_i18n_00462": {
+      "message": "Cửa hàng Chrome trực tuyến"
+   },
+   "cj_i18n_00464": {
+      "message": "Tiện ích mở rộng"
+   },
+   "cj_i18n_00465": {
+      "message": "Chủ đề"
+   },
+   "cj_i18n_00480": {
+      "message": "Phim"
+   },
+   "cj_i18n_00481": {
+      "message": "Tài khoản"
+   },
+   "cj_i18n_00484": {
+      "message": "Sự kiện"
+   },
+   "cj_i18n_00488": {
+      "message": "Hình ảnh"
+   },
+   "cj_i18n_00500": {
+      "message": "Cài đặt tìm kiếm"
+   },
+   "cj_i18n_00509": {
+      "message": "Video"
+   },
+   "cj_i18n_00603": {
+      "message": "Đồng bộ hóa"
+   },
+   "cj_i18n_00625": {
+      "message": "Kênh"
+   },
+   "cj_i18n_00634": {
+      "message": "Đóng góp của tôi"
+   },
+   "cj_i18n_00692": {
+      "message": "Yêu thích"
+   },
+   "cj_i18n_00800": {
+      "message": "Mật khẩu đã lưu"
+   },
+   "cj_i18n_00807": {
+      "message": "Thư viện của tôi"
+   },
+   "cj_i18n_00821": {
+      "message": "Lưu trữ"
+   },
+   "cj_i18n_00838": {
+      "message": "Nói về"
+   },
+   "cj_i18n_00856": {
+      "message": "Hệ điều hành Chromium"
+   },
+   "cj_i18n_00871": {
+      "message": "Chương trình Android Beta"
+   },
+   "cj_i18n_00878": {
+      "message": "Khả năng truy cập"
+   },
+   "cj_i18n_00901": {
+      "message": "Bảo mật"
+   },
+   "cj_i18n_00930": {
+      "message": "Thử nghiệm"
+   },
+   "cj_i18n_01002": {
+      "message": "Youtube dành cho Nghệ sĩ"
+   },
+   "cj_i18n_01025": {
+      "message": "Quy tắc Thiết kế Wear OS"
+   },
+   "cj_i18n_01068": {
+      "message": "Trò chơi"
+   },
+   "cj_i18n_01097": {
+      "message": "Quản lý các quản trị viên"
+   },
+   "cj_i18n_01107": {
+      "message": "Đã xem gần đây"
+   },
+   "cj_i18n_01133": {
+      "message": "Bàn phím"
+   },
+   "cj_i18n_01150": {
+      "message": "Trang"
+   },
+   "cj_i18n_01152": {
+      "message": "Báo cáo"
+   },
+   "cj_i18n_01168": {
+      "message": "Bản điều khiển"
+   },
+   "cj_i18n_01186": {
+      "message": "Bình luận"
+   },
+   "cj_i18n_01204": {
+      "message": "Âm nhạc"
+   },
+   "cj_i18n_01218": {
+      "message": "Tin tức"
+   },
+   "cj_i18n_01220": {
+      "message": "Trực tiếp"
+   },
+   "cj_i18n_01256": {
+      "message": "Lịch"
+   },
+   "cj_i18n_01363": {
+      "message": "Lưu"
+   },
+   "cj_i18n_01372": {
+      "message": "Lệnh tìm kiếm đã lưu"
+   },
+   "cj_i18n_01385": {
+      "message": "Quản trị viên"
+   },
+   "cj_i18n_01506": {
+      "message": "Tài khoản"
+   },
+   "cj_i18n_01507": {
+      "message": "Đăng xuất"
+   },
+   "cj_i18n_01518": {
+      "message": "Địa chỉ"
+   },
+   "cj_i18n_01532": {
+      "message": "Trợ giúp"
+   },
+   "cj_i18n_01533": {
+      "message": "Bảo mật"
+   },
+   "cj_i18n_01544": {
+      "message": "Đăng nhập"
+   },
+   "cj_i18n_01616": {
+      "message": "Đóng"
+   },
+   "cj_i18n_01619": {
+      "message": "Tìm kiếm và mở ra"
+   },
+   "cj_i18n_01620": {
+      "message": "Loại bỏ"
+   },
+   "cj_i18n_01622": {
+      "message": "Tải về"
+   },
+   "cj_i18n_01626": {
+      "message": "Bạn có thể sử dụng kéo và thả để thêm, xoá và sắp xếp lại các lối tắt"
+   },
+   "cj_i18n_01629": {
+      "message": "Mới nhất"
+   },
+   "cj_i18n_01632": {
+      "message": "Xoá tất cả lối tắt"
+   },
+   "cj_i18n_01642": {
+      "message": "Giao diện"
+   },
+   "cj_i18n_01644": {
+      "message": "Tự động"
+   },
+   "cj_i18n_01645": {
+      "message": "Chiều ngang"
+   },
+   "cj_i18n_01659": {
+      "message": "Hủy"
+   },
+   "cj_i18n_01661": {
+      "message": "Cảnh báo: nhập cài đặt sẽ xoá bỏ cài đặt hiện tại!"
+   },
+   "cj_i18n_01662": {
+      "message": "Chọn tập tin"
+   },
+   "cj_i18n_01666": {
+      "message": "Xóa"
+   },
+   "cj_i18n_01668": {
+      "message": "Bạn có chắc chắn muốn xoá bỏ lối tắt này một cách vĩnh viễn?"
+   },
+   "cj_i18n_01676": {
+      "message": "Tùy chỉnh dễ dàng với Google App Launcher"
+   },
+   "cj_i18n_01707": {
+      "message": "Thể thao"
+   },
+   "cj_i18n_01716": {
+      "message": "Phim & Chương trình"
+   },
+   "cj_i18n_01719": {
+      "message": "Choose from 1000+ Google™ shortcuts to show up as buttons in a space-saving popup"
+   },
+   "cj_i18n_01736": {
+      "message": "Nhập thất bại"
+   },
+   "cj_i18n_01929": {
+      "message": "Thời trang"
+   },
+   "cj_i18n_01945": {
+      "message": "Truy cập ứng dụng Enterprise G Suite của bạn dễ dàng"
+   },
+   "cj_i18n_01946": {
+      "message": "Cho phép bạn truy cập các ứng dụng của Google từ thanh công cụ của Chrome"
+   },
+   "cj_i18n_01949": {
+      "message": "Không tìm thấy tài khoản tương thích"
+   },
+   "cj_i18n_01950": {
+      "message": "Đặt lại cài đặt"
+   },
+   "cj_i18n_01990": {
+      "message": "Tên"
+   },
+   "cj_i18n_04776": {
+      "message": "Bản quyền"
+   },
+   "cj_i18n_05388": {
+      "message": "Chung"
+   },
+   "cj_i18n_06287": {
+      "message": "Nhấn để xem báo cáo cập nhật"
+   },
+   "cj_i18n_06288": {
+      "message": "__app_name__ đã được cập nhật"
+   },
+   "cj_i18n_06309": {
+      "message": "Chào mừng bạn đến với __app_name__"
+   },
+   "cj_i18n_06311": {
+      "message": "Xác nhận"
+   },
+   "cj_i18n_06380": {
+      "message": "Bạn có chắc chắn muốn xoá bỏ tất cả các lối tắt một cách vĩnh viễn?"
+   },
+   "cj_i18n_06640": {
+      "message": "Điện thoại"
+   },
+   "cj_i18n_06647": {
+      "message": "Truy cập nhanh"
+   },
+   "cj_i18n_06701": {
+      "message": "Cửa hàng"
+   },
+   "cj_i18n_06960": {
+      "message": "Trang AdMob của tôi"
+   }
+}

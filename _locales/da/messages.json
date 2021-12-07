@@ -1,0 +1,257 @@
+{
+   "cj_i18n_00002": {
+      "message": "Delt med mig"
+   },
+   "cj_i18n_00004": {
+      "message": "Stjernemarkerede"
+   },
+   "cj_i18n_00005": {
+      "message": "Affald"
+   },
+   "cj_i18n_00061": {
+      "message": "udforsk"
+   },
+   "cj_i18n_00081": {
+      "message": "Påmindelser"
+   },
+   "cj_i18n_00085": {
+      "message": "Søgning"
+   },
+   "cj_i18n_00097": {
+      "message": "Slip her for at fjerne"
+   },
+   "cj_i18n_00112": {
+      "message": "Websites"
+   },
+   "cj_i18n_00131": {
+      "message": "Bibliotek"
+   },
+   "cj_i18n_00155": {
+      "message": "Historik"
+   },
+   "cj_i18n_00183": {
+      "message": "Underretninger"
+   },
+   "cj_i18n_00216": {
+      "message": "Applikationer"
+   },
+   "cj_i18n_00292": {
+      "message": "Samlinger"
+   },
+   "cj_i18n_00293": {
+      "message": "Grupper"
+   },
+   "cj_i18n_00294": {
+      "message": "Profil"
+   },
+   "cj_i18n_00295": {
+      "message": "Personer"
+   },
+   "cj_i18n_00296": {
+      "message": "Underretninger"
+   },
+   "cj_i18n_00298": {
+      "message": "Indstillinger"
+   },
+   "cj_i18n_00302": {
+      "message": "Kalender"
+   },
+   "cj_i18n_00314": {
+      "message": "Kontaktpersoner"
+   },
+   "cj_i18n_00390": {
+      "message": "Drev"
+   },
+   "cj_i18n_00406": {
+      "message": "Advanceret søgning"
+   },
+   "cj_i18n_00412": {
+      "message": "Finans"
+   },
+   "cj_i18n_00414": {
+      "message": "Flysøgning"
+   },
+   "cj_i18n_00418": {
+      "message": "Grupper"
+   },
+   "cj_i18n_00425": {
+      "message": "Nyheder"
+   },
+   "cj_i18n_00427": {
+      "message": "Patenter"
+   },
+   "cj_i18n_00429": {
+      "message": "Fotos"
+   },
+   "cj_i18n_00434": {
+      "message": "Søgning"
+   },
+   "cj_i18n_00438": {
+      "message": "Hjælp"
+   },
+   "cj_i18n_00440": {
+      "message": "Oversæt"
+   },
+   "cj_i18n_00460": {
+      "message": "Bøger"
+   },
+   "cj_i18n_00462": {
+      "message": "Chrome Webshop"
+   },
+   "cj_i18n_00464": {
+      "message": "Udvidelser"
+   },
+   "cj_i18n_00465": {
+      "message": "Temaer"
+   },
+   "cj_i18n_00481": {
+      "message": "Konto"
+   },
+   "cj_i18n_00484": {
+      "message": "Begivenheder"
+   },
+   "cj_i18n_00488": {
+      "message": "Billeder"
+   },
+   "cj_i18n_00500": {
+      "message": "Søgeindstillinger"
+   },
+   "cj_i18n_00509": {
+      "message": "Videoer"
+   },
+   "cj_i18n_00603": {
+      "message": "Synkronisering"
+   },
+   "cj_i18n_00634": {
+      "message": "Mine bidrag"
+   },
+   "cj_i18n_00692": {
+      "message": "Favoritter"
+   },
+   "cj_i18n_00800": {
+      "message": "Gemte adgangskoder"
+   },
+   "cj_i18n_00807": {
+      "message": "Mit bibliotek"
+   },
+   "cj_i18n_00821": {
+      "message": "Arkiv"
+   },
+   "cj_i18n_00838": {
+      "message": "Om"
+   },
+   "cj_i18n_00878": {
+      "message": "Tilgængelighed"
+   },
+   "cj_i18n_00901": {
+      "message": "Beskyttelse af personlige oplysninger"
+   },
+   "cj_i18n_00930": {
+      "message": "Eksperimenter"
+   },
+   "cj_i18n_01107": {
+      "message": "Set for nyligt"
+   },
+   "cj_i18n_01149": {
+      "message": "Reklamer til søgning"
+   },
+   "cj_i18n_01150": {
+      "message": "Sider"
+   },
+   "cj_i18n_01152": {
+      "message": "Rapporter"
+   },
+   "cj_i18n_01153": {
+      "message": "Optimering"
+   },
+   "cj_i18n_01154": {
+      "message": "Betalinger"
+   },
+   "cj_i18n_01186": {
+      "message": "Kommentarer"
+   },
+   "cj_i18n_01363": {
+      "message": "Gem"
+   },
+   "cj_i18n_01372": {
+      "message": "Gemte søgninger"
+   },
+   "cj_i18n_01506": {
+      "message": "Konto"
+   },
+   "cj_i18n_01507": {
+      "message": "Log ud"
+   },
+   "cj_i18n_01518": {
+      "message": "Adresser"
+   },
+   "cj_i18n_01532": {
+      "message": "Hjælp"
+   },
+   "cj_i18n_01544": {
+      "message": "Log ind"
+   },
+   "cj_i18n_01616": {
+      "message": "Luk"
+   },
+   "cj_i18n_01619": {
+      "message": "Søg og start"
+   },
+   "cj_i18n_01620": {
+      "message": "Annuller"
+   },
+   "cj_i18n_01629": {
+      "message": "Nyeste"
+   },
+   "cj_i18n_01642": {
+      "message": "Udseende"
+   },
+   "cj_i18n_01659": {
+      "message": "Annuller"
+   },
+   "cj_i18n_01662": {
+      "message": "Vælge fil"
+   },
+   "cj_i18n_01666": {
+      "message": "Fjern"
+   },
+   "cj_i18n_01676": {
+      "message": "Easily customize the Google App Launcher."
+   },
+   "cj_i18n_01719": {
+      "message": "Vælg mellem 1000+ Google™ genvejs-knapper i en pladsbesparene pop-up menu"
+   },
+   "cj_i18n_01785": {
+      "message": "Overfør"
+   },
+   "cj_i18n_01946": {
+      "message": "Gør det muligt at tilgå Google App Launcher fra Chrome værktøjslinjen"
+   },
+   "cj_i18n_01949": {
+      "message": "Ingen kompatibel konto kunne findes"
+   },
+   "cj_i18n_01950": {
+      "message": "Nulstil indstillinger"
+   },
+   "cj_i18n_01990": {
+      "message": "Navn"
+   },
+   "cj_i18n_04776": {
+      "message": "Ophavsret"
+   },
+   "cj_i18n_05388": {
+      "message": "Generelt"
+   },
+   "cj_i18n_06287": {
+      "message": "Klik for at se changelog"
+   },
+   "cj_i18n_06288": {
+      "message": "__app_name__ er blevet opdateret"
+   },
+   "cj_i18n_06309": {
+      "message": "Velkommen til __app_name__"
+   },
+   "cj_i18n_06311": {
+      "message": "Godkend"
+   }
+}

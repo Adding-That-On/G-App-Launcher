@@ -1,0 +1,389 @@
+{
+   "cj_i18n_00002": {
+      "message": "Terbagi dengan saya"
+   },
+   "cj_i18n_00004": {
+      "message": "Dibintangkan"
+   },
+   "cj_i18n_00005": {
+      "message": "Sampah"
+   },
+   "cj_i18n_00061": {
+      "message": "Explorasi"
+   },
+   "cj_i18n_00081": {
+      "message": "Pengingat"
+   },
+   "cj_i18n_00085": {
+      "message": "Telusuri"
+   },
+   "cj_i18n_00097": {
+      "message": "Letakkan disini untuk buang"
+   },
+   "cj_i18n_00112": {
+      "message": "Tapak"
+   },
+   "cj_i18n_00155": {
+      "message": "Riwayat"
+   },
+   "cj_i18n_00161": {
+      "message": "Tentang saya"
+   },
+   "cj_i18n_00216": {
+      "message": "Apl"
+   },
+   "cj_i18n_00248": {
+      "message": "Kumpulan"
+   },
+   "cj_i18n_00250": {
+      "message": "Sekuriti"
+   },
+   "cj_i18n_00292": {
+      "message": "Koleksi"
+   },
+   "cj_i18n_00293": {
+      "message": "Komunitas"
+   },
+   "cj_i18n_00294": {
+      "message": "Profil"
+   },
+   "cj_i18n_00295": {
+      "message": "Orang"
+   },
+   "cj_i18n_00296": {
+      "message": "Notifikasi"
+   },
+   "cj_i18n_00298": {
+      "message": "Setelan"
+   },
+   "cj_i18n_00302": {
+      "message": "Kalender"
+   },
+   "cj_i18n_00303": {
+      "message": "Dihantar"
+   },
+   "cj_i18n_00314": {
+      "message": "Kontak"
+   },
+   "cj_i18n_00391": {
+      "message": "Dokumen"
+   },
+   "cj_i18n_00406": {
+      "message": "Pencarian lebih lanjut."
+   },
+   "cj_i18n_00414": {
+      "message": "Penerbangan"
+   },
+   "cj_i18n_00418": {
+      "message": "Grup"
+   },
+   "cj_i18n_00423": {
+      "message": "Peta"
+   },
+   "cj_i18n_00425": {
+      "message": "Berita"
+   },
+   "cj_i18n_00427": {
+      "message": "Paten"
+   },
+   "cj_i18n_00429": {
+      "message": "Foto"
+   },
+   "cj_i18n_00434": {
+      "message": "Telusuri"
+   },
+   "cj_i18n_00435": {
+      "message": "Belanja"
+   },
+   "cj_i18n_00438": {
+      "message": "Bantuan"
+   },
+   "cj_i18n_00440": {
+      "message": "Terjemahan"
+   },
+   "cj_i18n_00441": {
+      "message": "Tren"
+   },
+   "cj_i18n_00443": {
+      "message": "Suara"
+   },
+   "cj_i18n_00460": {
+      "message": "Buku"
+   },
+   "cj_i18n_00462": {
+      "message": "Toko Web Chrome"
+   },
+   "cj_i18n_00464": {
+      "message": "Ekstensi"
+   },
+   "cj_i18n_00465": {
+      "message": "Tema"
+   },
+   "cj_i18n_00470": {
+      "message": "Dasbor"
+   },
+   "cj_i18n_00471": {
+      "message": "Bumi"
+   },
+   "cj_i18n_00481": {
+      "message": "Akun"
+   },
+   "cj_i18n_00484": {
+      "message": "Acara"
+   },
+   "cj_i18n_00488": {
+      "message": "Gambar"
+   },
+   "cj_i18n_00500": {
+      "message": "Menelusuri setelan"
+   },
+   "cj_i18n_00509": {
+      "message": "Video"
+   },
+   "cj_i18n_00555": {
+      "message": "Tambah lokasi"
+   },
+   "cj_i18n_00561": {
+      "message": "Penyimpanan Drive"
+   },
+   "cj_i18n_00566": {
+      "message": "Verifikasi 2 langkah"
+   },
+   "cj_i18n_00603": {
+      "message": "Sinkronisasi"
+   },
+   "cj_i18n_00634": {
+      "message": "Kontribusi Saya"
+   },
+   "cj_i18n_00689": {
+      "message": "Aktifitas Saya"
+   },
+   "cj_i18n_00692": {
+      "message": "Favorit"
+   },
+   "cj_i18n_00745": {
+      "message": "Pengaturan Iklan"
+   },
+   "cj_i18n_00800": {
+      "message": "Sandi yang disimpan"
+   },
+   "cj_i18n_00807": {
+      "message": "Perpustakaan Saya"
+   },
+   "cj_i18n_00810": {
+      "message": "Kunci Pintar"
+   },
+   "cj_i18n_00818": {
+      "message": "Tempat saya"
+   },
+   "cj_i18n_00821": {
+      "message": "Arsip"
+   },
+   "cj_i18n_00838": {
+      "message": "Tentang"
+   },
+   "cj_i18n_00854": {
+      "message": "Pengembang Android"
+   },
+   "cj_i18n_00871": {
+      "message": "Program Beta Android"
+   },
+   "cj_i18n_00878": {
+      "message": "Aksesibilitas"
+   },
+   "cj_i18n_00901": {
+      "message": "Privasi"
+   },
+   "cj_i18n_00930": {
+      "message": "Eksperimen"
+   },
+   "cj_i18n_01006": {
+      "message": "Sandi Aplikasi"
+   },
+   "cj_i18n_01025": {
+      "message": "Pedoman Desain Wear OS"
+   },
+   "cj_i18n_01055": {
+      "message": "Untuk anda"
+   },
+   "cj_i18n_01087": {
+      "message": "Penyewaan"
+   },
+   "cj_i18n_01089": {
+      "message": "Langganan"
+   },
+   "cj_i18n_01149": {
+      "message": "Iklan untuk pencarian"
+   },
+   "cj_i18n_01150": {
+      "message": "Situs"
+   },
+   "cj_i18n_01151": {
+      "message": "Sekat kawalan"
+   },
+   "cj_i18n_01152": {
+      "message": "Laporan"
+   },
+   "cj_i18n_01153": {
+      "message": "Optimisasi"
+   },
+   "cj_i18n_01154": {
+      "message": "Pembayaran"
+   },
+   "cj_i18n_01186": {
+      "message": "Komentar"
+   },
+   "cj_i18n_01219": {
+      "message": "Keluarga"
+   },
+   "cj_i18n_01363": {
+      "message": "Simpan"
+   },
+   "cj_i18n_01506": {
+      "message": "Akun"
+   },
+   "cj_i18n_01507": {
+      "message": "Keluar"
+   },
+   "cj_i18n_01518": {
+      "message": "Alamat"
+   },
+   "cj_i18n_01532": {
+      "message": "Bantuan"
+   },
+   "cj_i18n_01533": {
+      "message": "Keamanan"
+   },
+   "cj_i18n_01534": {
+      "message": "Info Pribadi"
+   },
+   "cj_i18n_01536": {
+      "message": "Pembayaran & Langganan"
+   },
+   "cj_i18n_01544": {
+      "message": "Masuk"
+   },
+   "cj_i18n_01616": {
+      "message": "Tutup"
+   },
+   "cj_i18n_01619": {
+      "message": "Cari dan buka"
+   },
+   "cj_i18n_01620": {
+      "message": "Tutup"
+   },
+   "cj_i18n_01622": {
+      "message": "Unduhan"
+   },
+   "cj_i18n_01629": {
+      "message": "Teranyar"
+   },
+   "cj_i18n_01642": {
+      "message": "Penampilan"
+   },
+   "cj_i18n_01653": {
+      "message": "Kelola pengaturan"
+   },
+   "cj_i18n_01659": {
+      "message": "Batal"
+   },
+   "cj_i18n_01662": {
+      "message": "Pilih file"
+   },
+   "cj_i18n_01666": {
+      "message": "Hapus"
+   },
+   "cj_i18n_01676": {
+      "message": "Kustomisasi peluncur aplikasi Google dengan mudah."
+   },
+   "cj_i18n_01680": {
+      "message": "Muat naik"
+   },
+   "cj_i18n_01704": {
+      "message": "Transfer kontenmu"
+   },
+   "cj_i18n_01718": {
+      "message": "Akses terbaik ke services dan situs Google™"
+   },
+   "cj_i18n_01719": {
+      "message": "Pilih dari 1000+ jalan pintas Google™ dan tampilkan sebagai tombol pada popup penghemat tempat"
+   },
+   "cj_i18n_01732": {
+      "message": "Verifikasi jika ini anda"
+   },
+   "cj_i18n_01738": {
+      "message": "Data anda di Pencarian"
+   },
+   "cj_i18n_01775": {
+      "message": "Data & Personalisasi"
+   },
+   "cj_i18n_01780": {
+      "message": "Data anda di Maps"
+   },
+   "cj_i18n_01781": {
+      "message": "Data anda di Assisten"
+   },
+   "cj_i18n_01785": {
+      "message": "Pindahkan"
+   },
+   "cj_i18n_01898": {
+      "message": "Data anda di Youtube"
+   },
+   "cj_i18n_01945": {
+      "message": "Akses mudah ke aplikasi Enterprise G Suite"
+   },
+   "cj_i18n_01946": {
+      "message": "Membuatmu mengakses peluncur aplikasi Google langsung dari toolbar Chrome"
+   },
+   "cj_i18n_01949": {
+      "message": "Tiada akaun berkaitan ditemui"
+   },
+   "cj_i18n_01950": {
+      "message": "Setel ulang pengaturan"
+   },
+   "cj_i18n_01990": {
+      "message": "Nama"
+   },
+   "cj_i18n_04776": {
+      "message": "Hak cipta"
+   },
+   "cj_i18n_05388": {
+      "message": "Umum"
+   },
+   "cj_i18n_06233": {
+      "message": "Untuk dibuat"
+   },
+   "cj_i18n_06237": {
+      "message": "Manajemen akun tidak aktif"
+   },
+   "cj_i18n_06287": {
+      "message": "Klik untuk melihat modifikasi"
+   },
+   "cj_i18n_06288": {
+      "message": "__nama_app__ telah dikemas kini"
+   },
+   "cj_i18n_06309": {
+      "message": "Selamat Datang di __app_name__"
+   },
+   "cj_i18n_06311": {
+      "message": "Konfirmasi"
+   },
+   "cj_i18n_06358": {
+      "message": "Pemeriksaan Privasi"
+   },
+   "cj_i18n_06359": {
+      "message": "Pemeriksaan Keamanan"
+   },
+   "cj_i18n_06640": {
+      "message": "Seluler"
+   },
+   "cj_i18n_06647": {
+      "message": "Akses cepat"
+   },
+   "cj_i18n_06701": {
+      "message": "Toko"
+   },
+   "cj_i18n_06960": {
+      "message": "Halaman AdMob saya"
+   }
+}

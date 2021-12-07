@@ -1,0 +1,1526 @@
+{
+   "cj_i18n_00001": {
+      "message": "Mój dysk"
+   },
+   "cj_i18n_00002": {
+      "message": "Udostępnione dla mnie"
+   },
+   "cj_i18n_00003": {
+      "message": "Ostatnie"
+   },
+   "cj_i18n_00004": {
+      "message": "Oznaczone gwiazdką"
+   },
+   "cj_i18n_00005": {
+      "message": "Kosz"
+   },
+   "cj_i18n_00009": {
+      "message": "Dodaj zakładkę"
+   },
+   "cj_i18n_00061": {
+      "message": "Odkrywaj"
+   },
+   "cj_i18n_00081": {
+      "message": "Przypomnienia"
+   },
+   "cj_i18n_00085": {
+      "message": "Szukaj"
+   },
+   "cj_i18n_00097": {
+      "message": "Upuść tutaj, aby usunąć"
+   },
+   "cj_i18n_00111": {
+      "message": "Klasyczna Witryna"
+   },
+   "cj_i18n_00112": {
+      "message": "Witryny"
+   },
+   "cj_i18n_00131": {
+      "message": "Biblioteka"
+   },
+   "cj_i18n_00153": {
+      "message": "Na czasie"
+   },
+   "cj_i18n_00154": {
+      "message": "Subskrypcje"
+   },
+   "cj_i18n_00155": {
+      "message": "Historia"
+   },
+   "cj_i18n_00161": {
+      "message": "O mnie"
+   },
+   "cj_i18n_00177": {
+      "message": "Administrator"
+   },
+   "cj_i18n_00181": {
+      "message": "Archiwum Albumów"
+   },
+   "cj_i18n_00183": {
+      "message": "Alerty"
+   },
+   "cj_i18n_00187": {
+      "message": "Szkice"
+   },
+   "cj_i18n_00188": {
+      "message": "Wszystkie wiadomości"
+   },
+   "cj_i18n_00190": {
+      "message": "Zakładki"
+   },
+   "cj_i18n_00192": {
+      "message": "Lista przebojów"
+   },
+   "cj_i18n_00194": {
+      "message": "Korelacja"
+   },
+   "cj_i18n_00195": {
+      "message": "Wyszukiwanie Trendów"
+   },
+   "cj_i18n_00203": {
+      "message": "Nowo wydane"
+   },
+   "cj_i18n_00216": {
+      "message": "Aplikacje"
+   },
+   "cj_i18n_00218": {
+      "message": "Książki"
+   },
+   "cj_i18n_00219": {
+      "message": "Muzyka"
+   },
+   "cj_i18n_00240": {
+      "message": "Użytkownicy"
+   },
+   "cj_i18n_00243": {
+      "message": "Migracja danych"
+   },
+   "cj_i18n_00244": {
+      "message": "Witryny"
+   },
+   "cj_i18n_00246": {
+      "message": "Zarządzanie urządzeniami"
+   },
+   "cj_i18n_00247": {
+      "message": "Pomoc"
+   },
+   "cj_i18n_00248": {
+      "message": "Grupy"
+   },
+   "cj_i18n_00250": {
+      "message": "Bezpieczeństwo"
+   },
+   "cj_i18n_00251": {
+      "message": "Rachunki"
+   },
+   "cj_i18n_00268": {
+      "message": "Nowe wydarzenie"
+   },
+   "cj_i18n_00270": {
+      "message": "Narzędzie Testowania Danych Strukturalnych"
+   },
+   "cj_i18n_00271": {
+      "message": "Pomocnik Znaczników Danych Strukturalnych"
+   },
+   "cj_i18n_00272": {
+      "message": "Tester Oznaczeń Email"
+   },
+   "cj_i18n_00285": {
+      "message": "Książki Play"
+   },
+   "cj_i18n_00287": {
+      "message": "Test optymalizacji mobilnej"
+   },
+   "cj_i18n_00292": {
+      "message": "Kolekcje"
+   },
+   "cj_i18n_00293": {
+      "message": "Społeczności"
+   },
+   "cj_i18n_00294": {
+      "message": "Profil"
+   },
+   "cj_i18n_00295": {
+      "message": "Ludzie"
+   },
+   "cj_i18n_00296": {
+      "message": "Powiadomienia"
+   },
+   "cj_i18n_00298": {
+      "message": "Ustawienia"
+   },
+   "cj_i18n_00300": {
+      "message": "Odłożone"
+   },
+   "cj_i18n_00302": {
+      "message": "Kalendarz"
+   },
+   "cj_i18n_00303": {
+      "message": "Wysłane"
+   },
+   "cj_i18n_00307": {
+      "message": "Wycieczki"
+   },
+   "cj_i18n_00308": {
+      "message": "Podróże"
+   },
+   "cj_i18n_00310": {
+      "message": "Zakupy"
+   },
+   "cj_i18n_00314": {
+      "message": "Kontakty"
+   },
+   "cj_i18n_00390": {
+      "message": "Mój dysk"
+   },
+   "cj_i18n_00391": {
+      "message": "Dokumenty"
+   },
+   "cj_i18n_00393": {
+      "message": "Arkusze"
+   },
+   "cj_i18n_00400": {
+      "message": "Albumy"
+   },
+   "cj_i18n_00405": {
+      "message": "Galeria szablonów"
+   },
+   "cj_i18n_00406": {
+      "message": "Wyszukiwanie zaawansowane"
+   },
+   "cj_i18n_00407": {
+      "message": "Prezentacje"
+   },
+   "cj_i18n_00408": {
+      "message": "Formularze"
+   },
+   "cj_i18n_00410": {
+      "message": "Moje mapy"
+   },
+   "cj_i18n_00412": {
+      "message": "Finanse"
+   },
+   "cj_i18n_00414": {
+      "message": "Loty"
+   },
+   "cj_i18n_00415": {
+      "message": "Fonty"
+   },
+   "cj_i18n_00418": {
+      "message": "Grupy"
+   },
+   "cj_i18n_00423": {
+      "message": "Mapy"
+   },
+   "cj_i18n_00425": {
+      "message": "Wiadomości"
+   },
+   "cj_i18n_00427": {
+      "message": "Patenty"
+   },
+   "cj_i18n_00429": {
+      "message": "Zdjęcia"
+   },
+   "cj_i18n_00432": {
+      "message": "Kolekcje"
+   },
+   "cj_i18n_00434": {
+      "message": "Szukaj"
+   },
+   "cj_i18n_00435": {
+      "message": "Zakupy Google"
+   },
+   "cj_i18n_00438": {
+      "message": "Pomoc"
+   },
+   "cj_i18n_00439": {
+      "message": "Zadania"
+   },
+   "cj_i18n_00440": {
+      "message": "Tłumacz"
+   },
+   "cj_i18n_00441": {
+      "message": "Trendy"
+   },
+   "cj_i18n_00450": {
+      "message": "O Google"
+   },
+   "cj_i18n_00453": {
+      "message": "Moje Centrum klienta"
+   },
+   "cj_i18n_00458": {
+      "message": "Sztuka i kultura"
+   },
+   "cj_i18n_00460": {
+      "message": "Książki"
+   },
+   "cj_i18n_00464": {
+      "message": "Rozszerzenia"
+   },
+   "cj_i18n_00465": {
+      "message": "Motywy"
+   },
+   "cj_i18n_00467": {
+      "message": "Ankiety"
+   },
+   "cj_i18n_00468": {
+      "message": "Nowa ankieta"
+   },
+   "cj_i18n_00476": {
+      "message": "Nowy email"
+   },
+   "cj_i18n_00477": {
+      "message": "Narzędzia do wprowadzania tekstu"
+   },
+   "cj_i18n_00480": {
+      "message": "Filmy"
+   },
+   "cj_i18n_00481": {
+      "message": "Konto"
+   },
+   "cj_i18n_00484": {
+      "message": "Wydarzenia"
+   },
+   "cj_i18n_00485": {
+      "message": "Co jest na topie"
+   },
+   "cj_i18n_00488": {
+      "message": "Grafika"
+   },
+   "cj_i18n_00495": {
+      "message": "Moje urządzenia"
+   },
+   "cj_i18n_00496": {
+      "message": "Archiwum Wiadomości"
+   },
+   "cj_i18n_00498": {
+      "message": "Komunikaty alarmowe"
+   },
+   "cj_i18n_00500": {
+      "message": "Ustawienia wyszukiwania"
+   },
+   "cj_i18n_00502": {
+      "message": "Forum produktów"
+   },
+   "cj_i18n_00503": {
+      "message": "Google Takeout"
+   },
+   "cj_i18n_00504": {
+      "message": "Tranzyt"
+   },
+   "cj_i18n_00509": {
+      "message": "Wideo"
+   },
+   "cj_i18n_00512": {
+      "message": "Rok wyszukiwania"
+   },
+   "cj_i18n_00513": {
+      "message": "Menedżer tagów"
+   },
+   "cj_i18n_00517": {
+      "message": "Wyślij to"
+   },
+   "cj_i18n_00518": {
+      "message": "Mapa"
+   },
+   "cj_i18n_00520": {
+      "message": "Znajdź moje urządzenie"
+   },
+   "cj_i18n_00521": {
+      "message": "Moje subskrypcje"
+   },
+   "cj_i18n_00522": {
+      "message": "Raporty Opinii"
+   },
+   "cj_i18n_00523": {
+      "message": "Planer słów kluczowych"
+   },
+   "cj_i18n_00547": {
+      "message": "Nowy silnik wyszukiwania"
+   },
+   "cj_i18n_00550": {
+      "message": "Lista życzeń"
+   },
+   "cj_i18n_00554": {
+      "message": "Moja firma"
+   },
+   "cj_i18n_00555": {
+      "message": "Dodaj lokalizację"
+   },
+   "cj_i18n_00561": {
+      "message": "Miejsce na dane"
+   },
+   "cj_i18n_00566": {
+      "message": "Weryfikacja 2-stopniowa"
+   },
+   "cj_i18n_00588": {
+      "message": "Domeny"
+   },
+   "cj_i18n_00589": {
+      "message": "Kalkulator"
+   },
+   "cj_i18n_00592": {
+      "message": "Sztuka uliczna"
+   },
+   "cj_i18n_00596": {
+      "message": "Kontakt Google"
+   },
+   "cj_i18n_00603": {
+      "message": "Google Sync"
+   },
+   "cj_i18n_00607": {
+      "message": "Nowy dokument"
+   },
+   "cj_i18n_00608": {
+      "message": "Nowy arkusz kalkulacyjny"
+   },
+   "cj_i18n_00609": {
+      "message": "Nowa prezentacja"
+   },
+   "cj_i18n_00618": {
+      "message": "Użyte Aplikacje"
+   },
+   "cj_i18n_00619": {
+      "message": "Migracja dla Outlook"
+   },
+   "cj_i18n_00623": {
+      "message": "Transmisja na żywo"
+   },
+   "cj_i18n_00624": {
+      "message": "Społeczność"
+   },
+   "cj_i18n_00625": {
+      "message": "Kanał"
+   },
+   "cj_i18n_00631": {
+      "message": "Nowy formularz"
+   },
+   "cj_i18n_00633": {
+      "message": "Nowy kierunek"
+   },
+   "cj_i18n_00634": {
+      "message": "Mój wkład"
+   },
+   "cj_i18n_00640": {
+      "message": "Momenty historyczne"
+   },
+   "cj_i18n_00641": {
+      "message": "Projekty"
+   },
+   "cj_i18n_00651": {
+      "message": "Tłumacz Strony www"
+   },
+   "cj_i18n_00666": {
+      "message": "Atrybucja"
+   },
+   "cj_i18n_00673": {
+      "message": "Narzędzie Podglądu"
+   },
+   "cj_i18n_00674": {
+      "message": "Role administracyjne"
+   },
+   "cj_i18n_00675": {
+      "message": "Raporty"
+   },
+   "cj_i18n_00676": {
+      "message": "Kontrybutor"
+   },
+   "cj_i18n_00688": {
+      "message": "Nowa witryna"
+   },
+   "cj_i18n_00689": {
+      "message": "Moja aktywność"
+   },
+   "cj_i18n_00692": {
+      "message": "Ulubione"
+   },
+   "cj_i18n_00693": {
+      "message": "Różnorodność"
+   },
+   "cj_i18n_00694": {
+      "message": "Sztuka i Kultura – Cervantes"
+   },
+   "cj_i18n_00702": {
+      "message": "Wybory"
+   },
+   "cj_i18n_00728": {
+      "message": "Asystent"
+   },
+   "cj_i18n_00736": {
+      "message": "Lokalni przewodnicy"
+   },
+   "cj_i18n_00743": {
+      "message": "Pogoda"
+   },
+   "cj_i18n_00744": {
+      "message": "Konta firmowe"
+   },
+   "cj_i18n_00745": {
+      "message": "Personalizacja reklam"
+   },
+   "cj_i18n_00761": {
+      "message": "YouTube Creator Katalog Usług"
+   },
+   "cj_i18n_00763": {
+      "message": "Twórcy"
+   },
+   "cj_i18n_00772": {
+      "message": "Zgłoś płatne linki"
+   },
+   "cj_i18n_00774": {
+      "message": "Indeks URL"
+   },
+   "cj_i18n_00775": {
+      "message": "Bezpieczne Przeglądanie"
+   },
+   "cj_i18n_00776": {
+      "message": "Bezpieczne Przeglądanie Alertów"
+   },
+   "cj_i18n_00780": {
+      "message": "Portal Filmów i TV Partner"
+   },
+   "cj_i18n_00800": {
+      "message": "Zapisane hasła"
+   },
+   "cj_i18n_00801": {
+      "message": "Opinie"
+   },
+   "cj_i18n_00802": {
+      "message": "Moja firma"
+   },
+   "cj_i18n_00807": {
+      "message": "Moja biblioteka"
+   },
+   "cj_i18n_00808": {
+      "message": "Historia czatów"
+   },
+   "cj_i18n_00811": {
+      "message": "Asystent tagowania"
+   },
+   "cj_i18n_00812": {
+      "message": "Akcelerator"
+   },
+   "cj_i18n_00818": {
+      "message": "Moje miejsca"
+   },
+   "cj_i18n_00820": {
+      "message": "Błędy Chromium"
+   },
+   "cj_i18n_00821": {
+      "message": "Archiwum"
+   },
+   "cj_i18n_00825": {
+      "message": "Raport nieprawidłowe ostrzeżenie o Phishing"
+   },
+   "cj_i18n_00826": {
+      "message": "Raport Strony Phishing"
+   },
+   "cj_i18n_00828": {
+      "message": "Raport Malware"
+   },
+   "cj_i18n_00829": {
+      "message": "Konwerter walut"
+   },
+   "cj_i18n_00838": {
+      "message": "Informacje"
+   },
+   "cj_i18n_00845": {
+      "message": "Konerter jednostek"
+   },
+   "cj_i18n_00849": {
+      "message": "Next OnAir"
+   },
+   "cj_i18n_00860": {
+      "message": "Stoper"
+   },
+   "cj_i18n_00862": {
+      "message": "Moje aplikacje"
+   },
+   "cj_i18n_00863": {
+      "message": "Udostępnianie lokalizacji"
+   },
+   "cj_i18n_00868": {
+      "message": "Album zdjęć"
+   },
+   "cj_i18n_00871": {
+      "message": "Program Android Beta"
+   },
+   "cj_i18n_00878": {
+      "message": "Ułatwienia dostępu"
+   },
+   "cj_i18n_00897": {
+      "message": "Rodziny"
+   },
+   "cj_i18n_00901": {
+      "message": "Prywatność"
+   },
+   "cj_i18n_00905": {
+      "message": "Rekomendacje społecznościowe"
+   },
+   "cj_i18n_00915": {
+      "message": "[seame]"
+   },
+   "cj_i18n_00917": {
+      "message": "Kopia zapasowa i synchronizacja"
+   },
+   "cj_i18n_00918": {
+      "message": "Ochrona hasła"
+   },
+   "cj_i18n_00921": {
+      "message": "Akcelerator Google"
+   },
+   "cj_i18n_00990": {
+      "message": "Posty"
+   },
+   "cj_i18n_00995": {
+      "message": "Centrum Wiadomości"
+   },
+   "cj_i18n_00996": {
+      "message": "Kwarantanna administracyjna"
+   },
+   "cj_i18n_00999": {
+      "message": "Gry Google Play"
+   },
+   "cj_i18n_01000": {
+      "message": "Nowy skrypt"
+   },
+   "cj_i18n_01002": {
+      "message": "YouTube dla Artystów"
+   },
+   "cj_i18n_01005": {
+      "message": "Test Wyniki Zasobów"
+   },
+   "cj_i18n_01006": {
+      "message": "Hasła aplikacji"
+   },
+   "cj_i18n_01007": {
+      "message": "Panel stanu reklam"
+   },
+   "cj_i18n_01008": {
+      "message": "Dostęp"
+   },
+   "cj_i18n_01009": {
+      "message": "Wsparcie"
+   },
+   "cj_i18n_01019": {
+      "message": "Profil"
+   },
+   "cj_i18n_01020": {
+      "message": "Historia darowizn"
+   },
+   "cj_i18n_01028": {
+      "message": "Lista zakupów"
+   },
+   "cj_i18n_01030": {
+      "message": "Hotele"
+   },
+   "cj_i18n_01038": {
+      "message": "Rejestracja Urządzenia"
+   },
+   "cj_i18n_01055": {
+      "message": "Dla Ciebie"
+   },
+   "cj_i18n_01061": {
+      "message": "Rankingi muzyczne"
+   },
+   "cj_i18n_01064": {
+      "message": "Google One"
+   },
+   "cj_i18n_01068": {
+      "message": "Gry"
+   },
+   "cj_i18n_01069": {
+      "message": "Dlaczego Google Cloud"
+   },
+   "cj_i18n_01073": {
+      "message": "Zasady"
+   },
+   "cj_i18n_01075": {
+      "message": "Nagrody"
+   },
+   "cj_i18n_01076": {
+      "message": "Poziomy korzyści"
+   },
+   "cj_i18n_01077": {
+      "message": "Menedżerowie ds. partnerów"
+   },
+   "cj_i18n_01079": {
+      "message": "Menedżer odbiorców"
+   },
+   "cj_i18n_01080": {
+      "message": "Listy wykluczających słów kluczowych"
+   },
+   "cj_i18n_01081": {
+      "message": "Budżety wspólne"
+   },
+   "cj_i18n_01082": {
+      "message": "Listy wykluczeń miejsc docelowych"
+   },
+   "cj_i18n_01087": {
+      "message": "Rezerwacje"
+   },
+   "cj_i18n_01089": {
+      "message": "Subskrypcje"
+   },
+   "cj_i18n_01092": {
+      "message": "Certyfikowany partner wydawców"
+   },
+   "cj_i18n_01093": {
+      "message": "Partnerzy"
+   },
+   "cj_i18n_01095": {
+      "message": "Reklamy"
+   },
+   "cj_i18n_01096": {
+      "message": "Pomoc dotycząca reklam"
+   },
+   "cj_i18n_01103": {
+      "message": "Partnerzy Korporacyjni"
+   },
+   "cj_i18n_01106": {
+      "message": "Administracja"
+   },
+   "cj_i18n_01107": {
+      "message": "Ostatnio oglądane"
+   },
+   "cj_i18n_01112": {
+      "message": "Wyświetlaj & Wideo"
+   },
+   "cj_i18n_01125": {
+      "message": "Obserwowane ceny lotów"
+   },
+   "cj_i18n_01128": {
+      "message": "Wiadomości"
+   },
+   "cj_i18n_01133": {
+      "message": "Klawiatura"
+   },
+   "cj_i18n_01138": {
+      "message": "Zabezpieczenia"
+   },
+   "cj_i18n_01140": {
+      "message": "Pomoc"
+   },
+   "cj_i18n_01142": {
+      "message": "Interfejsy API i usługi"
+   },
+   "cj_i18n_01143": {
+      "message": "YouTube reklamy"
+   },
+   "cj_i18n_01149": {
+      "message": "Reklamy do wyszukiwania"
+   },
+   "cj_i18n_01150": {
+      "message": "Strony"
+   },
+   "cj_i18n_01151": {
+      "message": "Kontrola blokowania"
+   },
+   "cj_i18n_01152": {
+      "message": "Raporty"
+   },
+   "cj_i18n_01153": {
+      "message": "Optymalizacja"
+   },
+   "cj_i18n_01154": {
+      "message": "Płatności"
+   },
+   "cj_i18n_01168": {
+      "message": "Panel"
+   },
+   "cj_i18n_01186": {
+      "message": "Komentarze"
+   },
+   "cj_i18n_01191": {
+      "message": "Wszystkie blogi"
+   },
+   "cj_i18n_01196": {
+      "message": "Playlisty"
+   },
+   "cj_i18n_01204": {
+      "message": "Muzyka"
+   },
+   "cj_i18n_01218": {
+      "message": "Wiadomości"
+   },
+   "cj_i18n_01219": {
+      "message": "Familia"
+   },
+   "cj_i18n_01220": {
+      "message": "Na żywo"
+   },
+   "cj_i18n_01256": {
+      "message": "Kalendarz"
+   },
+   "cj_i18n_01257": {
+      "message": "Zarchiwizowane zajęcia"
+   },
+   "cj_i18n_01276": {
+      "message": "Częste kontakty"
+   },
+   "cj_i18n_01278": {
+      "message": "Inne kontakty"
+   },
+   "cj_i18n_01285": {
+      "message": "Utwórz kontakt"
+   },
+   "cj_i18n_01300": {
+      "message": "Studio danych"
+   },
+   "cj_i18n_01303": {
+      "message": "Galeria raportów"
+   },
+   "cj_i18n_01304": {
+      "message": "Studio danych"
+   },
+   "cj_i18n_01307": {
+      "message": "Komputery"
+   },
+   "cj_i18n_01308": {
+      "message": "Kopie zapasowe"
+   },
+   "cj_i18n_01320": {
+      "message": "Artykuły"
+   },
+   "cj_i18n_01341": {
+      "message": "Zapisane historie"
+   },
+   "cj_i18n_01355": {
+      "message": "Zapisane"
+   },
+   "cj_i18n_01363": {
+      "message": "Zapisz"
+   },
+   "cj_i18n_01372": {
+      "message": "Zapisane wyszukiwania"
+   },
+   "cj_i18n_01439": {
+      "message": "Połączone konta"
+   },
+   "cj_i18n_01442": {
+      "message": "Raporty"
+   },
+   "cj_i18n_01443": {
+      "message": "Sprawy"
+   },
+   "cj_i18n_01444": {
+      "message": "Retencja"
+   },
+   "cj_i18n_01459": {
+      "message": "Twój profil"
+   },
+   "cj_i18n_01460": {
+      "message": "Przesłane przez ciebie"
+   },
+   "cj_i18n_01461": {
+      "message": "Twoje polubienia"
+   },
+   "cj_i18n_01506": {
+      "message": "Konto"
+   },
+   "cj_i18n_01507": {
+      "message": "Wyloguj się"
+   },
+   "cj_i18n_01513": {
+      "message": "Subskrypcje & serwisów"
+   },
+   "cj_i18n_01516": {
+      "message": "Wyślij lub żądaj pieniędzy"
+   },
+   "cj_i18n_01517": {
+      "message": "Metody płatności"
+   },
+   "cj_i18n_01518": {
+      "message": "Adresy"
+   },
+   "cj_i18n_01519": {
+      "message": "Zarządzanie użytkownikami"
+   },
+   "cj_i18n_01520": {
+      "message": "Dodaj informacje podatkowe"
+   },
+   "cj_i18n_01521": {
+      "message": "Dokumenty"
+   },
+   "cj_i18n_01522": {
+      "message": "Zamówienia klienta"
+   },
+   "cj_i18n_01523": {
+      "message": "Podatek od sprzedaży"
+   },
+   "cj_i18n_01530": {
+      "message": "Reklamy"
+   },
+   "cj_i18n_01531": {
+      "message": "Pasek Narzędzi"
+   },
+   "cj_i18n_01532": {
+      "message": "Pomoc"
+   },
+   "cj_i18n_01533": {
+      "message": "Bezpieczeństwo"
+   },
+   "cj_i18n_01534": {
+      "message": "Informacje osobiste"
+   },
+   "cj_i18n_01535": {
+      "message": "Osoby i udostępnianie"
+   },
+   "cj_i18n_01536": {
+      "message": "Płatności i subskrypcje"
+   },
+   "cj_i18n_01544": {
+      "message": "Zaloguj się"
+   },
+   "cj_i18n_01616": {
+      "message": "Zamknij"
+   },
+   "cj_i18n_01619": {
+      "message": "Wyszukaj i uruchom"
+   },
+   "cj_i18n_01620": {
+      "message": "Odrzuć"
+   },
+   "cj_i18n_01621": {
+      "message": "Dodaj skrót"
+   },
+   "cj_i18n_01622": {
+      "message": "Pobierz"
+   },
+   "cj_i18n_01624": {
+      "message": "Wybierz skróty"
+   },
+   "cj_i18n_01625": {
+      "message": "Dostępne"
+   },
+   "cj_i18n_01626": {
+      "message": "Możesz użyć przeciągania i upuszczania, aby dodać, usunąć i zmienić kolejność skrótów"
+   },
+   "cj_i18n_01627": {
+      "message": "Popularne"
+   },
+   "cj_i18n_01629": {
+      "message": "Najnowsze"
+   },
+   "cj_i18n_01630": {
+      "message": "Moje skróty"
+   },
+   "cj_i18n_01631": {
+      "message": "Sortowanie A-Z"
+   },
+   "cj_i18n_01632": {
+      "message": "Usuń wszystkie skróty"
+   },
+   "cj_i18n_01633": {
+      "message": "Dodaj własny skrót"
+   },
+   "cj_i18n_01634": {
+      "message": "Sugeruj brakujące"
+   },
+   "cj_i18n_01636": {
+      "message": "Otwieraj skróty w nowej karcie"
+   },
+   "cj_i18n_01637": {
+      "message": "Otwieraj skróty w nowej karcie na stronie nowej karty przeglądarki"
+   },
+   "cj_i18n_01640": {
+      "message": "Wyświetlaj wyszukiwanie i launchbox"
+   },
+   "cj_i18n_01641": {
+      "message": "Przycisk ustawienia wyświetlania"
+   },
+   "cj_i18n_01642": {
+      "message": "Wygląd"
+   },
+   "cj_i18n_01643": {
+      "message": "Tryb wyśwetlania skrótów:"
+   },
+   "cj_i18n_01645": {
+      "message": "Poziomo"
+   },
+   "cj_i18n_01646": {
+      "message": "Pionowo"
+   },
+   "cj_i18n_01647": {
+      "message": "Niestandardowe"
+   },
+   "cj_i18n_01648": {
+      "message": "Wybierz ile kolumn chcesz wyświetlić"
+   },
+   "cj_i18n_01649": {
+      "message": "Ukryj etykiety"
+   },
+   "cj_i18n_01650": {
+      "message": "Wyświetlaj listę w postaci skrótowej"
+   },
+   "cj_i18n_01651": {
+      "message": "Rozmiar ikon skrótów"
+   },
+   "cj_i18n_01652": {
+      "message": "Ikona paska narzędzi"
+   },
+   "cj_i18n_01653": {
+      "message": "Zarządzaj ustawieniami"
+   },
+   "cj_i18n_01654": {
+      "message": "Ustawienia są zapisywane automatycznie i synchronizowane za pomocą rozszerzenia synchronizacji, jeśli rozszerzenie synchronizacji dla rozszerzeń jest włączona."
+   },
+   "cj_i18n_01655": {
+      "message": "Importuj ustawienia"
+   },
+   "cj_i18n_01656": {
+      "message": "Eksportuj ustawienia"
+   },
+   "cj_i18n_01659": {
+      "message": "Anuluj"
+   },
+   "cj_i18n_01661": {
+      "message": "Ostrzeżenie: Importowanie ustawień usuwa bieżące ustawienia!"
+   },
+   "cj_i18n_01662": {
+      "message": "Wybierz plik"
+   },
+   "cj_i18n_01663": {
+      "message": "Ustawienia zostały zaimportowane pomyślnie."
+   },
+   "cj_i18n_01664": {
+      "message": "Odśwież ustawienia strony"
+   },
+   "cj_i18n_01666": {
+      "message": "Usuń"
+   },
+   "cj_i18n_01667": {
+      "message": "Usuń własny skrót"
+   },
+   "cj_i18n_01668": {
+      "message": "Czy na pewno chcesz na stałe usunąć ten skrót?"
+   },
+   "cj_i18n_01669": {
+      "message": "Usuń skrót"
+   },
+   "cj_i18n_01672": {
+      "message": "URL"
+   },
+   "cj_i18n_01673": {
+      "message": "Adres URL ikony (opcjonalnie)"
+   },
+   "cj_i18n_01674": {
+      "message": "Nazwa skrótu"
+   },
+   "cj_i18n_01675": {
+      "message": "Otwórz uruchamianie aplikacji"
+   },
+   "cj_i18n_01676": {
+      "message": "Łatwo dostosuj Google App Launcher."
+   },
+   "cj_i18n_01678": {
+      "message": "Audiobooki"
+   },
+   "cj_i18n_01680": {
+      "message": "Przesłane"
+   },
+   "cj_i18n_01696": {
+      "message": "Moja aktywność Play"
+   },
+   "cj_i18n_01698": {
+      "message": "Książki – Centrum Partnerów"
+   },
+   "cj_i18n_01700": {
+      "message": "Colaboratory"
+   },
+   "cj_i18n_01704": {
+      "message": "Przenieś swoje treści"
+   },
+   "cj_i18n_01705": {
+      "message": "Pasjans"
+   },
+   "cj_i18n_01706": {
+      "message": "Kółko i krzyżyk"
+   },
+   "cj_i18n_01707": {
+      "message": "Sporty"
+   },
+   "cj_i18n_01716": {
+      "message": "Filmy & Show"
+   },
+   "cj_i18n_01718": {
+      "message": "Najlepszy dostęp do usług i witryn Google™"
+   },
+   "cj_i18n_01719": {
+      "message": "Wybierz spośród ponad 1000 skrótów Google™, aby wyświetlać je jako przyciski w wyskakującym okienku"
+   },
+   "cj_i18n_01727": {
+      "message": "Wiadomości"
+   },
+   "cj_i18n_01732": {
+      "message": "Zweryfikułuj swoją tożsamość"
+   },
+   "cj_i18n_01735": {
+      "message": "Upewnij się, że importujesz odpowiedni plik konfiguracyjny."
+   },
+   "cj_i18n_01736": {
+      "message": "Import nie powiódł się"
+   },
+   "cj_i18n_01738": {
+      "message": "Twoje dane w wyszukiwarce"
+   },
+   "cj_i18n_01751": {
+      "message": "Pakiety"
+   },
+   "cj_i18n_01761": {
+      "message": "Edytuj skrót"
+   },
+   "cj_i18n_01775": {
+      "message": "Dane i personalizacja"
+   },
+   "cj_i18n_01777": {
+      "message": "Dokumenty"
+   },
+   "cj_i18n_01780": {
+      "message": "Twoje dane w Mapach"
+   },
+   "cj_i18n_01781": {
+      "message": "Twoje dane w Asystencie"
+   },
+   "cj_i18n_01782": {
+      "message": "Udostępnione dla mnie"
+   },
+   "cj_i18n_01783": {
+      "message": "Znajdź nową domenę"
+   },
+   "cj_i18n_01788": {
+      "message": "Dostosuj ikonę paska narzędzi do ciemnego motywu"
+   },
+   "cj_i18n_01802": {
+      "message": "Jak działa wyszukiwanie"
+   },
+   "cj_i18n_01825": {
+      "message": "Telefony i tablety z Androidem"
+   },
+   "cj_i18n_01826": {
+      "message": "Porównaj szybkość witryny mobilnej"
+   },
+   "cj_i18n_01833": {
+      "message": "Przechowywanie danych"
+   },
+   "cj_i18n_01896": {
+      "message": "Zdrowie"
+   },
+   "cj_i18n_01898": {
+      "message": "Twoje dane w YouTube"
+   },
+   "cj_i18n_01900": {
+      "message": "Więcej ustawień"
+   },
+   "cj_i18n_01906": {
+      "message": "Jednostki organizacyjne"
+   },
+   "cj_i18n_01909": {
+      "message": "Zakupy opinie"
+   },
+   "cj_i18n_01928": {
+      "message": "Odtwarzanie i wydajność"
+   },
+   "cj_i18n_01929": {
+      "message": "Moda"
+   },
+   "cj_i18n_01930": {
+      "message": "Odkryj loty"
+   },
+   "cj_i18n_01945": {
+      "message": "Łatwy dostęp do aplikacji G Suite dla firm"
+   },
+   "cj_i18n_01946": {
+      "message": "Umożliwia dostęp do Google App Launcher bezpośrednio z paska narzędzi"
+   },
+   "cj_i18n_01948": {
+      "message": "Nowy blok"
+   },
+   "cj_i18n_01949": {
+      "message": "Nie znaleziono kompatybilnego konta"
+   },
+   "cj_i18n_01950": {
+      "message": "Resetuj ustawienia"
+   },
+   "cj_i18n_01951": {
+      "message": "Spowoduje to przywrócenie wszystkich ustawień i opcji skrótów do ich oryginalnych ustawień domyślnych."
+   },
+   "cj_i18n_01952": {
+      "message": "Edytuj własny skrót"
+   },
+   "cj_i18n_01956": {
+      "message": "Zadania"
+   },
+   "cj_i18n_01990": {
+      "message": "Nazwa"
+   },
+   "cj_i18n_02167": {
+      "message": "Centrum zasobów"
+   },
+   "cj_i18n_02168": {
+      "message": "Konta"
+   },
+   "cj_i18n_04776": {
+      "message": "Prawa autorskie"
+   },
+   "cj_i18n_05388": {
+      "message": "Ogólne"
+   },
+   "cj_i18n_06222": {
+      "message": "Drejdel"
+   },
+   "cj_i18n_06223": {
+      "message": "Rzut kostką"
+   },
+   "cj_i18n_06224": {
+      "message": "Metronom"
+   },
+   "cj_i18n_06225": {
+      "message": "Saper"
+   },
+   "cj_i18n_06227": {
+      "message": "Wąż"
+   },
+   "cj_i18n_06228": {
+      "message": "Quiz na Dzień Ziemi"
+   },
+   "cj_i18n_06229": {
+      "message": "Rzut monetą"
+   },
+   "cj_i18n_06231": {
+      "message": "Głosy zwierząt"
+   },
+   "cj_i18n_06232": {
+      "message": "Ćwiczenia oddechowe"
+   },
+   "cj_i18n_06233": {
+      "message": "Do zrobienia"
+   },
+   "cj_i18n_06237": {
+      "message": "Menedżer nieaktywnych kont"
+   },
+   "cj_i18n_06245": {
+      "message": "Priorytet"
+   },
+   "cj_i18n_06287": {
+      "message": "Kliknij, aby wyświetlić dziennik zmian"
+   },
+   "cj_i18n_06288": {
+      "message": "__app_name__ został zaktualizowany"
+   },
+   "cj_i18n_06295": {
+      "message": "Dodaj zakładkę"
+   },
+   "cj_i18n_06296": {
+      "message": "Monetyzacja"
+   },
+   "cj_i18n_06297": {
+      "message": "Biblioteka audio"
+   },
+   "cj_i18n_06301": {
+      "message": "Interakcja z oryginalnym przyciskiem Aplikacje Google"
+   },
+   "cj_i18n_06302": {
+      "message": "Nadpisz ikonę przycisku i skróty"
+   },
+   "cj_i18n_06303": {
+      "message": "Nadpisz tylko skróty"
+   },
+   "cj_i18n_06304": {
+      "message": "Ukryj przycisk"
+   },
+   "cj_i18n_06305": {
+      "message": "Nie nadpisuj przycisku"
+   },
+   "cj_i18n_06306": {
+      "message": "Nowa notatka"
+   },
+   "cj_i18n_06307": {
+      "message": "Nowa lista"
+   },
+   "cj_i18n_06308": {
+      "message": "Nowe przypomnienie"
+   },
+   "cj_i18n_06309": {
+      "message": "Witamy w __app_name__"
+   },
+   "cj_i18n_06310": {
+      "message": "To rozszerzenie zastępuje także w witrynach Google oryginalne menu „Aplikacje Google”. Można to zawsze zmienić w ustawieniach."
+   },
+   "cj_i18n_06311": {
+      "message": "Potwierdź"
+   },
+   "cj_i18n_06321": {
+      "message": "Nowa kolekcja"
+   },
+   "cj_i18n_06330": {
+      "message": "Pomyśl z Google - Experience & Design"
+   },
+   "cj_i18n_06334": {
+      "message": "Status Strony"
+   },
+   "cj_i18n_06338": {
+      "message": "Autoryzowani Kupujący"
+   },
+   "cj_i18n_06339": {
+      "message": "Weryfikacja Strony"
+   },
+   "cj_i18n_06348": {
+      "message": "Szukaj wg obrazu"
+   },
+   "cj_i18n_06352": {
+      "message": "Sport w Google"
+   },
+   "cj_i18n_06358": {
+      "message": "Ustawienia prywatności"
+   },
+   "cj_i18n_06359": {
+      "message": "Sprawdzanie zabezpieczeń"
+   },
+   "cj_i18n_06365": {
+      "message": "Kontrola aktywności"
+   },
+   "cj_i18n_06380": {
+      "message": "Czy na pewno chcesz trwale usunąć wszystkie skróty?"
+   },
+   "cj_i18n_06395": {
+      "message": "Play usługi"
+   },
+   "cj_i18n_06397": {
+      "message": "Koronawirus – mapa"
+   },
+   "cj_i18n_06398": {
+      "message": "Importuj ustawienia Skrótów dla Google™"
+   },
+   "cj_i18n_06409": {
+      "message": "Zamówienia Żywności"
+   },
+   "cj_i18n_06410": {
+      "message": "Edytor Google Ads"
+   },
+   "cj_i18n_06425": {
+      "message": "Wystawca Karty"
+   },
+   "cj_i18n_06488": {
+      "message": "Google dla Małych Firm"
+   },
+   "cj_i18n_06492": {
+      "message": "Przegląd"
+   },
+   "cj_i18n_06502": {
+      "message": "COVID-19 – Raporty na temat przemieszczania się"
+   },
+   "cj_i18n_06503": {
+      "message": "Koronawirusy – Najnowsze wiadomości"
+   },
+   "cj_i18n_06555": {
+      "message": "Odpowiedzi"
+   },
+   "cj_i18n_06571": {
+      "message": "Zasoby szkoleniowe"
+   },
+   "cj_i18n_06572": {
+      "message": "Miejsce na dane"
+   },
+   "cj_i18n_06581": {
+      "message": "Uruchom konferencję"
+   },
+   "cj_i18n_06596": {
+      "message": "Narzędzia"
+   },
+   "cj_i18n_06604": {
+      "message": "Programowalne wyszukiwanie"
+   },
+   "cj_i18n_06606": {
+      "message": "Wszystkie grupy"
+   },
+   "cj_i18n_06607": {
+      "message": "Ostatnio odwiedzone grupy"
+   },
+   "cj_i18n_06608": {
+      "message": "Stwórz grupę"
+   },
+   "cj_i18n_06609": {
+      "message": "Tagi"
+   },
+   "cj_i18n_06613": {
+      "message": "Ulubione grupy"
+   },
+   "cj_i18n_06622": {
+      "message": "Do sprawdzenia"
+   },
+   "cj_i18n_06623": {
+      "message": "Klasyczne grupy"
+   },
+   "cj_i18n_06624": {
+      "message": "Ustawienia konta"
+   },
+   "cj_i18n_06626": {
+      "message": "Twoje bilety kolejowe"
+   },
+   "cj_i18n_06627": {
+      "message": "Obserwowane ceny hoteli"
+   },
+   "cj_i18n_06628": {
+      "message": "Rzeczy do zrobienia"
+   },
+   "cj_i18n_06629": {
+      "message": "Pociągi"
+   },
+   "cj_i18n_06630": {
+      "message": "Wynajem wakacyjny"
+   },
+   "cj_i18n_06632": {
+      "message": "Zajęcia"
+   },
+   "cj_i18n_06633": {
+      "message": "Bank komentarzy"
+   },
+   "cj_i18n_06640": {
+      "message": "Telefon"
+   },
+   "cj_i18n_06641": {
+      "message": "COVID-19 Wskazówki dot. bezpieczeństwa"
+   },
+   "cj_i18n_06644": {
+      "message": "Stwórz wycieczkę"
+   },
+   "cj_i18n_06647": {
+      "message": "Szybki dostęp"
+   },
+   "cj_i18n_06650": {
+      "message": "Wyświetlaj sugestie skrótów"
+   },
+   "cj_i18n_06669": {
+      "message": "Ulubione trasy"
+   },
+   "cj_i18n_06670": {
+      "message": "Lista do obejrzenia"
+   },
+   "cj_i18n_06695": {
+      "message": "Pokaż Workspace Marketplace apps"
+   },
+   "cj_i18n_06697": {
+      "message": "Ulubione prace"
+   },
+   "cj_i18n_06698": {
+      "message": "Ulubione receptury"
+   },
+   "cj_i18n_06699": {
+      "message": "Ulubione wideo"
+   },
+   "cj_i18n_06700": {
+      "message": "Ulubione strony"
+   },
+   "cj_i18n_06701": {
+      "message": "Sklep"
+   },
+   "cj_i18n_06704": {
+      "message": "Ulubione obrazy"
+   },
+   "cj_i18n_06708": {
+      "message": "Dostęp głosowy"
+   },
+   "cj_i18n_06718": {
+      "message": "Nastrój i gatunki"
+   },
+   "cj_i18n_06740": {
+      "message": "Zrzekanie się linków do swojej witryny"
+   },
+   "cj_i18n_06741": {
+      "message": "Zgłaszanie spamu na stronach"
+   },
+   "cj_i18n_06742": {
+      "message": "Wszystkie wiadomości"
+   },
+   "cj_i18n_06743": {
+      "message": "Parametry URL"
+   },
+   "cj_i18n_06746": {
+      "message": "Społeczność Pomocy"
+   },
+   "cj_i18n_06747": {
+      "message": "Blog Centrum pomocy wyszukiwarki Google"
+   },
+   "cj_i18n_06749": {
+      "message": "Nagrody"
+   },
+   "cj_i18n_06750": {
+      "message": "Historia zamówień"
+   },
+   "cj_i18n_06827": {
+      "message": "Wiadomości oznaczone gwiazdką"
+   },
+   "cj_i18n_06847": {
+      "message": "Listy i notatki"
+   },
+   "cj_i18n_06848": {
+      "message": "Reporter problemów Googlebot"
+   },
+   "cj_i18n_06849": {
+      "message": "Konsola działań"
+   },
+   "cj_i18n_06851": {
+      "message": "Przeglądaj działania"
+   },
+   "cj_i18n_06852": {
+      "message": "Stwórz rodzinę"
+   },
+   "cj_i18n_06864": {
+      "message": "Narzędzia 360"
+   },
+   "cj_i18n_06880": {
+      "message": "Co nowego w Chromebookach"
+   },
+   "cj_i18n_06887": {
+      "message": "Od A do Z o AI"
+   },
+   "cj_i18n_06888": {
+      "message": "Nest dla Partnerów"
+   },
+   "cj_i18n_06895": {
+      "message": "Zarządzanie miejscem"
+   },
+   "cj_i18n_06896": {
+      "message": "Korzyści"
+   },
+   "cj_i18n_06897": {
+      "message": "Plany"
+   },
+   "cj_i18n_06908": {
+      "message": "Wczesny dostęp"
+   },
+   "cj_i18n_06911": {
+      "message": "Ikony"
+   },
+   "cj_i18n_06916": {
+      "message": "Nowe spotkanie"
+   },
+   "cj_i18n_06922": {
+      "message": "Zachowywanie się skrótów"
+   },
+   "cj_i18n_06923": {
+      "message": "Zablokowani użytkownicy"
+   },
+   "cj_i18n_06924": {
+      "message": "Podgląd czatu"
+   },
+   "cj_i18n_06925": {
+      "message": "Informacje o COVID-19"
+   },
+   "cj_i18n_06930": {
+      "message": "Treść"
+   },
+   "cj_i18n_06933": {
+      "message": "Prześlij wideo"
+   },
+   "cj_i18n_06943": {
+      "message": "Twoje filmy"
+   },
+   "cj_i18n_06947": {
+      "message": "Nowe wydarzenie ze spotkaniem"
+   },
+   "cj_i18n_06948": {
+      "message": "Przeglądaj kanały"
+   }
+}

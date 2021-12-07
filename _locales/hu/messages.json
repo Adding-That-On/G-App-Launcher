@@ -1,0 +1,524 @@
+{
+   "cj_i18n_00002": {
+      "message": "Megosztva velem"
+   },
+   "cj_i18n_00004": {
+      "message": "Csillagozva"
+   },
+   "cj_i18n_00005": {
+      "message": "Kuka"
+   },
+   "cj_i18n_00061": {
+      "message": "Felfedezés"
+   },
+   "cj_i18n_00081": {
+      "message": "Emlékeztetők"
+   },
+   "cj_i18n_00085": {
+      "message": "Keresés"
+   },
+   "cj_i18n_00097": {
+      "message": "Húzza ide a törléshez"
+   },
+   "cj_i18n_00111": {
+      "message": "Klasszikus Weboldalak"
+   },
+   "cj_i18n_00112": {
+      "message": "Webhelyek"
+   },
+   "cj_i18n_00131": {
+      "message": "Könyvek"
+   },
+   "cj_i18n_00154": {
+      "message": "Előfizetések"
+   },
+   "cj_i18n_00155": {
+      "message": "Előzmények"
+   },
+   "cj_i18n_00183": {
+      "message": "Riasztások"
+   },
+   "cj_i18n_00190": {
+      "message": "Könyvjelzők"
+   },
+   "cj_i18n_00216": {
+      "message": "Alkalmazások"
+   },
+   "cj_i18n_00292": {
+      "message": "Gyűjtemények"
+   },
+   "cj_i18n_00293": {
+      "message": "Közösségek"
+   },
+   "cj_i18n_00294": {
+      "message": "Profil"
+   },
+   "cj_i18n_00295": {
+      "message": "Személyek"
+   },
+   "cj_i18n_00296": {
+      "message": "Értesítések"
+   },
+   "cj_i18n_00298": {
+      "message": "Beállítások"
+   },
+   "cj_i18n_00302": {
+      "message": "Naptár"
+   },
+   "cj_i18n_00305": {
+      "message": "Tanterem"
+   },
+   "cj_i18n_00314": {
+      "message": "Címtár"
+   },
+   "cj_i18n_00343": {
+      "message": "Fejlesztők"
+   },
+   "cj_i18n_00391": {
+      "message": "Dokumentumok"
+   },
+   "cj_i18n_00406": {
+      "message": "Kiterjesztett keresés"
+   },
+   "cj_i18n_00412": {
+      "message": "Pénzügy"
+   },
+   "cj_i18n_00414": {
+      "message": "Repülőjáratok"
+   },
+   "cj_i18n_00418": {
+      "message": "Csoportok"
+   },
+   "cj_i18n_00423": {
+      "message": "Térképek"
+   },
+   "cj_i18n_00425": {
+      "message": "Hírek"
+   },
+   "cj_i18n_00427": {
+      "message": "Szabadalmak"
+   },
+   "cj_i18n_00429": {
+      "message": "Fényképek"
+   },
+   "cj_i18n_00434": {
+      "message": "Keresés"
+   },
+   "cj_i18n_00435": {
+      "message": "Vásárlás"
+   },
+   "cj_i18n_00438": {
+      "message": "Súgó"
+   },
+   "cj_i18n_00440": {
+      "message": "Fordító"
+   },
+   "cj_i18n_00441": {
+      "message": "Trendek"
+   },
+   "cj_i18n_00443": {
+      "message": "Hang"
+   },
+   "cj_i18n_00460": {
+      "message": "Könyvek"
+   },
+   "cj_i18n_00462": {
+      "message": "Chrome Internetes áruház"
+   },
+   "cj_i18n_00464": {
+      "message": "Bővítmények"
+   },
+   "cj_i18n_00465": {
+      "message": "Témák"
+   },
+   "cj_i18n_00470": {
+      "message": "Műszerfal"
+   },
+   "cj_i18n_00481": {
+      "message": "Fiók"
+   },
+   "cj_i18n_00484": {
+      "message": "Események"
+   },
+   "cj_i18n_00488": {
+      "message": "Képek"
+   },
+   "cj_i18n_00500": {
+      "message": "Keresési beállítások"
+   },
+   "cj_i18n_00509": {
+      "message": "Videók"
+   },
+   "cj_i18n_00510": {
+      "message": "Elemzések"
+   },
+   "cj_i18n_00588": {
+      "message": "Webhelyek"
+   },
+   "cj_i18n_00603": {
+      "message": "Szinkronizálás"
+   },
+   "cj_i18n_00607": {
+      "message": "Új dokumentum"
+   },
+   "cj_i18n_00616": {
+      "message": "Széf"
+   },
+   "cj_i18n_00634": {
+      "message": "Közreműködéseim"
+   },
+   "cj_i18n_00641": {
+      "message": "Projektek"
+   },
+   "cj_i18n_00664": {
+      "message": "Optimalizálás"
+   },
+   "cj_i18n_00692": {
+      "message": "Kedvencek"
+   },
+   "cj_i18n_00717": {
+      "message": "Kezdőlap"
+   },
+   "cj_i18n_00800": {
+      "message": "Mentett jelszavak"
+   },
+   "cj_i18n_00807": {
+      "message": "Könyvtáram"
+   },
+   "cj_i18n_00820": {
+      "message": "Chromium hibák"
+   },
+   "cj_i18n_00821": {
+      "message": "Archivált"
+   },
+   "cj_i18n_00835": {
+      "message": "Termékek"
+   },
+   "cj_i18n_00838": {
+      "message": "Névjegy"
+   },
+   "cj_i18n_00878": {
+      "message": "Kisegítő lehetőségek"
+   },
+   "cj_i18n_00901": {
+      "message": "Adatvédelem"
+   },
+   "cj_i18n_00926": {
+      "message": "Felfedezés"
+   },
+   "cj_i18n_00930": {
+      "message": "Kísérletek"
+   },
+   "cj_i18n_01019": {
+      "message": "Profil"
+   },
+   "cj_i18n_01034": {
+      "message": "Kezdőlap"
+   },
+   "cj_i18n_01084": {
+      "message": "Üzenetek"
+   },
+   "cj_i18n_01098": {
+      "message": "Stúdió"
+   },
+   "cj_i18n_01099": {
+      "message": "Hírdetések keresése"
+   },
+   "cj_i18n_01107": {
+      "message": "Legutóbbiak"
+   },
+   "cj_i18n_01128": {
+      "message": "Üzenetek"
+   },
+   "cj_i18n_01129": {
+      "message": "Hangüzenet"
+   },
+   "cj_i18n_01145": {
+      "message": "Fájlok"
+   },
+   "cj_i18n_01149": {
+      "message": "Hirdetések kereséshez"
+   },
+   "cj_i18n_01150": {
+      "message": "Oldalak"
+   },
+   "cj_i18n_01151": {
+      "message": "Vezérlők blokkolása"
+   },
+   "cj_i18n_01152": {
+      "message": "Bejelentések"
+   },
+   "cj_i18n_01168": {
+      "message": "Műszerfal"
+   },
+   "cj_i18n_01186": {
+      "message": "Hozzászólások"
+   },
+   "cj_i18n_01256": {
+      "message": "Naptár"
+   },
+   "cj_i18n_01257": {
+      "message": "Archivált kurzusok"
+   },
+   "cj_i18n_01355": {
+      "message": "Elmentve"
+   },
+   "cj_i18n_01363": {
+      "message": "Mentés"
+   },
+   "cj_i18n_01372": {
+      "message": "Mentett keresések"
+   },
+   "cj_i18n_01385": {
+      "message": "Adminisztrátor"
+   },
+   "cj_i18n_01442": {
+      "message": "Bejelentések"
+   },
+   "cj_i18n_01506": {
+      "message": "Fiók"
+   },
+   "cj_i18n_01507": {
+      "message": "Kijelentkezés"
+   },
+   "cj_i18n_01518": {
+      "message": "Címek"
+   },
+   "cj_i18n_01532": {
+      "message": "Súgó"
+   },
+   "cj_i18n_01533": {
+      "message": "Biztonság"
+   },
+   "cj_i18n_01544": {
+      "message": "Bejelentkezés"
+   },
+   "cj_i18n_01616": {
+      "message": "Bezárás"
+   },
+   "cj_i18n_01619": {
+      "message": "Keresés és indítás"
+   },
+   "cj_i18n_01620": {
+      "message": "Elvetés"
+   },
+   "cj_i18n_01621": {
+      "message": "Parancsikon hozzáadása"
+   },
+   "cj_i18n_01622": {
+      "message": "Letöltés"
+   },
+   "cj_i18n_01624": {
+      "message": "Parancsikonok kijelölése"
+   },
+   "cj_i18n_01625": {
+      "message": "Elérhető"
+   },
+   "cj_i18n_01627": {
+      "message": "Népszerű"
+   },
+   "cj_i18n_01629": {
+      "message": "Legújabb"
+   },
+   "cj_i18n_01630": {
+      "message": "Parancsikonjaim"
+   },
+   "cj_i18n_01631": {
+      "message": "Rendezés A-Z"
+   },
+   "cj_i18n_01633": {
+      "message": "Saját parancsikon hozzáadása"
+   },
+   "cj_i18n_01634": {
+      "message": "Hiányzó javaslat"
+   },
+   "cj_i18n_01636": {
+      "message": "Parancsikonok megnyitása egy új lapon"
+   },
+   "cj_i18n_01637": {
+      "message": "Parancsikonok megnyitása a Böngészőben egy új lapon"
+   },
+   "cj_i18n_01642": {
+      "message": "Megjelenés"
+   },
+   "cj_i18n_01643": {
+      "message": "Parancsikonok megjelenítési módja:"
+   },
+   "cj_i18n_01644": {
+      "message": "Automatikus"
+   },
+   "cj_i18n_01645": {
+      "message": "Függőleges"
+   },
+   "cj_i18n_01646": {
+      "message": "Függőleges"
+   },
+   "cj_i18n_01647": {
+      "message": "Egyéni"
+   },
+   "cj_i18n_01649": {
+      "message": "Címkék elrejtése"
+   },
+   "cj_i18n_01650": {
+      "message": "Parancsikonok megjelenítése egy listában"
+   },
+   "cj_i18n_01651": {
+      "message": "Parancsikon mérete"
+   },
+   "cj_i18n_01652": {
+      "message": "Eszköztár ikon"
+   },
+   "cj_i18n_01653": {
+      "message": "Beállítások kezelése"
+   },
+   "cj_i18n_01659": {
+      "message": "Mégsem"
+   },
+   "cj_i18n_01662": {
+      "message": "Fájl kiválasztása"
+   },
+   "cj_i18n_01666": {
+      "message": "Eltávolítás"
+   },
+   "cj_i18n_01667": {
+      "message": "Saját parancsikon törlése"
+   },
+   "cj_i18n_01669": {
+      "message": "Parancsikon törlése"
+   },
+   "cj_i18n_01673": {
+      "message": "Ikon url (opcionális)"
+   },
+   "cj_i18n_01674": {
+      "message": "Parancsikon neve"
+   },
+   "cj_i18n_01675": {
+      "message": "App indító megnyitása"
+   },
+   "cj_i18n_01678": {
+      "message": "Hangos könyvek"
+   },
+   "cj_i18n_01680": {
+      "message": "Feltöltések"
+   },
+   "cj_i18n_01718": {
+      "message": "A legjobb hozzáférés a Google™ szolgáltatásokhoz és webhelyekhez"
+   },
+   "cj_i18n_01719": {
+      "message": "Choose from 1000+ Google™ shortcuts to show up as buttons in a space-saving popup"
+   },
+   "cj_i18n_01736": {
+      "message": "Sikertelen importálás"
+   },
+   "cj_i18n_01761": {
+      "message": "Parancsikon szerkesztése"
+   },
+   "cj_i18n_01777": {
+      "message": "Dokumentumok"
+   },
+   "cj_i18n_01788": {
+      "message": "Eszköztár ikon adaptálása a sötét témához"
+   },
+   "cj_i18n_01900": {
+      "message": "További opciók"
+   },
+   "cj_i18n_01949": {
+      "message": "Nem található kompatibilis fiók"
+   },
+   "cj_i18n_01950": {
+      "message": "Beállítások visszaállítása"
+   },
+   "cj_i18n_01952": {
+      "message": "Saját parancsikon szerkesztése"
+   },
+   "cj_i18n_01954": {
+      "message": "https://minta.com/"
+   },
+   "cj_i18n_01955": {
+      "message": "https://minta.com/img.png"
+   },
+   "cj_i18n_01990": {
+      "message": "Név"
+   },
+   "cj_i18n_04776": {
+      "message": "Szerzői jog"
+   },
+   "cj_i18n_05388": {
+      "message": "Általános"
+   },
+   "cj_i18n_06233": {
+      "message": "Teendők"
+   },
+   "cj_i18n_06287": {
+      "message": "Klikk a változásnapló megtekintéséhez"
+   },
+   "cj_i18n_06288": {
+      "message": "__app_name__ sikeresen frissítve"
+   },
+   "cj_i18n_06301": {
+      "message": "A Google Alkalmazásindító viselkedése"
+   },
+   "cj_i18n_06302": {
+      "message": "Felülbíráló gomb és indító"
+   },
+   "cj_i18n_06303": {
+      "message": "Csak az indító felülbírálása"
+   },
+   "cj_i18n_06304": {
+      "message": "Gomb elrejtése"
+   },
+   "cj_i18n_06305": {
+      "message": "Ne írja felül"
+   },
+   "cj_i18n_06309": {
+      "message": "A __app_name__ üdvözli Önt!"
+   },
+   "cj_i18n_06310": {
+      "message": "Ez a bővítmény felülírja az Alkalmazásindítót a Google webhelyein. Ez a beállításokban mindig módosítható."
+   },
+   "cj_i18n_06311": {
+      "message": "Megerősítés"
+   },
+   "cj_i18n_06397": {
+      "message": "Vírustérkép"
+   },
+   "cj_i18n_06492": {
+      "message": "Áttekintés"
+   },
+   "cj_i18n_06622": {
+      "message": "Felülvizsgálandó"
+   },
+   "cj_i18n_06640": {
+      "message": "Telefon"
+   },
+   "cj_i18n_06643": {
+      "message": "Kalisszikus Weboldal Kezelő"
+   },
+   "cj_i18n_06647": {
+      "message": "Gyors hozzáférés"
+   },
+   "cj_i18n_06650": {
+      "message": "Parancsikonjavaslatok megjelenítése"
+   },
+   "cj_i18n_06684": {
+      "message": "Műszerfal"
+   },
+   "cj_i18n_06701": {
+      "message": "Bolt"
+   },
+   "cj_i18n_06748": {
+      "message": "Fejlesztői Profil"
+   },
+   "cj_i18n_06920": {
+      "message": "Ne fókuszáljon az újonnan létrehozott lapokra"
+   },
+   "cj_i18n_06921": {
+      "message": "Fókuszáljon a meglévő lapra, ha a parancsikon már nyitva van"
+   },
+   "cj_i18n_06922": {
+      "message": "Parancsikon viselkedés"
+   },
+   "cj_i18n_06924": {
+      "message": "Beszélgetés előnézet"
+   }
+}

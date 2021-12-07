@@ -1,0 +1,299 @@
+{
+   "cj_i18n_00002": {
+      "message": "Dalinamasi su manimi"
+   },
+   "cj_i18n_00004": {
+      "message": "Su žvaigždute"
+   },
+   "cj_i18n_00005": {
+      "message": "Šiukšledėžė"
+   },
+   "cj_i18n_00061": {
+      "message": "Patyrinėkite"
+   },
+   "cj_i18n_00081": {
+      "message": "Priminimai"
+   },
+   "cj_i18n_00085": {
+      "message": "Paieška"
+   },
+   "cj_i18n_00097": {
+      "message": "Paleiskite čia, kad pašalintumėte"
+   },
+   "cj_i18n_00112": {
+      "message": "Svetainės"
+   },
+   "cj_i18n_00131": {
+      "message": "Biblioteka"
+   },
+   "cj_i18n_00155": {
+      "message": "Istorija"
+   },
+   "cj_i18n_00216": {
+      "message": "Programos"
+   },
+   "cj_i18n_00292": {
+      "message": "Kolekcijos"
+   },
+   "cj_i18n_00293": {
+      "message": "Bendruomenės"
+   },
+   "cj_i18n_00294": {
+      "message": "Profilis"
+   },
+   "cj_i18n_00295": {
+      "message": "Žmonės"
+   },
+   "cj_i18n_00296": {
+      "message": "Pranešimai"
+   },
+   "cj_i18n_00298": {
+      "message": "Nustatymai"
+   },
+   "cj_i18n_00302": {
+      "message": "Kalendorius"
+   },
+   "cj_i18n_00314": {
+      "message": "Kontaktai"
+   },
+   "cj_i18n_00390": {
+      "message": "Diskas"
+   },
+   "cj_i18n_00391": {
+      "message": "Dokumentai"
+   },
+   "cj_i18n_00406": {
+      "message": "Išplėstinė paieška"
+   },
+   "cj_i18n_00412": {
+      "message": "Finansai"
+   },
+   "cj_i18n_00414": {
+      "message": "Skrydžiai"
+   },
+   "cj_i18n_00418": {
+      "message": "Grupės"
+   },
+   "cj_i18n_00423": {
+      "message": "Žemėlapiai"
+   },
+   "cj_i18n_00425": {
+      "message": "Naujienos"
+   },
+   "cj_i18n_00427": {
+      "message": "Patentai"
+   },
+   "cj_i18n_00429": {
+      "message": "Nuotraukos"
+   },
+   "cj_i18n_00434": {
+      "message": "Paieška"
+   },
+   "cj_i18n_00435": {
+      "message": "Apsipirkimas"
+   },
+   "cj_i18n_00438": {
+      "message": "Žinynas"
+   },
+   "cj_i18n_00440": {
+      "message": "Vertėjas"
+   },
+   "cj_i18n_00441": {
+      "message": "Tendencijos"
+   },
+   "cj_i18n_00460": {
+      "message": "Knygos"
+   },
+   "cj_i18n_00462": {
+      "message": "„Chrome“ internetinė parduotuvė"
+   },
+   "cj_i18n_00464": {
+      "message": "Plėtiniai"
+   },
+   "cj_i18n_00465": {
+      "message": "Temos"
+   },
+   "cj_i18n_00481": {
+      "message": "Paskyra"
+   },
+   "cj_i18n_00484": {
+      "message": "Įvykiai"
+   },
+   "cj_i18n_00488": {
+      "message": "Vaizdai"
+   },
+   "cj_i18n_00500": {
+      "message": "Ieškoti nustatymų"
+   },
+   "cj_i18n_00509": {
+      "message": "Vaizdo įrašai"
+   },
+   "cj_i18n_00579": {
+      "message": "„Chrome“"
+   },
+   "cj_i18n_00603": {
+      "message": "Sinchronizavimas"
+   },
+   "cj_i18n_00634": {
+      "message": "Mano pagalba"
+   },
+   "cj_i18n_00692": {
+      "message": "Mėgstamiausi"
+   },
+   "cj_i18n_00800": {
+      "message": "Išsaugoti slaptažodžiai"
+   },
+   "cj_i18n_00807": {
+      "message": "Mano biblioteka"
+   },
+   "cj_i18n_00821": {
+      "message": "Archyvas"
+   },
+   "cj_i18n_00838": {
+      "message": "Apie"
+   },
+   "cj_i18n_00851": {
+      "message": "Android atvirasis kodas"
+   },
+   "cj_i18n_00854": {
+      "message": "Android Programuotojai"
+   },
+   "cj_i18n_00856": {
+      "message": "„Chromium“ OS"
+   },
+   "cj_i18n_00871": {
+      "message": "Android Beta Programa"
+   },
+   "cj_i18n_00878": {
+      "message": "Pritaikymas neįgaliesiems"
+   },
+   "cj_i18n_00901": {
+      "message": "Privatumas"
+   },
+   "cj_i18n_00930": {
+      "message": "Bandymai"
+   },
+   "cj_i18n_01015": {
+      "message": "Android Parterių puslapis"
+   },
+   "cj_i18n_01025": {
+      "message": "Wear OS Dizaino Nuostatai"
+   },
+   "cj_i18n_01107": {
+      "message": "Neseniai peržiūrėti"
+   },
+   "cj_i18n_01149": {
+      "message": "Reklamos paieškai"
+   },
+   "cj_i18n_01150": {
+      "message": "Puslapiai"
+   },
+   "cj_i18n_01151": {
+      "message": "Blokavimo parinktys"
+   },
+   "cj_i18n_01152": {
+      "message": "Skundai"
+   },
+   "cj_i18n_01153": {
+      "message": "Optimizacija"
+   },
+   "cj_i18n_01154": {
+      "message": "Mokėjimai"
+   },
+   "cj_i18n_01186": {
+      "message": "Komentarai"
+   },
+   "cj_i18n_01363": {
+      "message": "Įrašyti"
+   },
+   "cj_i18n_01506": {
+      "message": "Paskyra"
+   },
+   "cj_i18n_01507": {
+      "message": "Atsijungti"
+   },
+   "cj_i18n_01518": {
+      "message": "Adresai"
+   },
+   "cj_i18n_01532": {
+      "message": "Žinynas"
+   },
+   "cj_i18n_01544": {
+      "message": "Prisijungti"
+   },
+   "cj_i18n_01616": {
+      "message": "Uždaryti"
+   },
+   "cj_i18n_01619": {
+      "message": "Ieškoti ir atidaryti"
+   },
+   "cj_i18n_01620": {
+      "message": "Atsisakyti"
+   },
+   "cj_i18n_01622": {
+      "message": "Pasisiųsti"
+   },
+   "cj_i18n_01629": {
+      "message": "Naujausia"
+   },
+   "cj_i18n_01642": {
+      "message": "Išvaizda"
+   },
+   "cj_i18n_01659": {
+      "message": "Atšaukti"
+   },
+   "cj_i18n_01662": {
+      "message": "Pasirinkti failą"
+   },
+   "cj_i18n_01666": {
+      "message": "Pašalinti"
+   },
+   "cj_i18n_01719": {
+      "message": "Choose from 1000+ Google™ shortcuts to show up as buttons in a space-saving popup"
+   },
+   "cj_i18n_01785": {
+      "message": "Persiųsti"
+   },
+   "cj_i18n_01825": {
+      "message": "Android telefonai ir plančetiniai"
+   },
+   "cj_i18n_01949": {
+      "message": "Jokia tinkama paskyra negali būt surasta"
+   },
+   "cj_i18n_01950": {
+      "message": "Išnaujo nustatyti nustatymus"
+   },
+   "cj_i18n_01990": {
+      "message": "Vardas"
+   },
+   "cj_i18n_04776": {
+      "message": "Autorių teisės"
+   },
+   "cj_i18n_05388": {
+      "message": "Bendra"
+   },
+   "cj_i18n_06287": {
+      "message": "Spauskite, jei norite sužinoti kas naujo"
+   },
+   "cj_i18n_06288": {
+      "message": "__app_name__ buvo atnaujintas"
+   },
+   "cj_i18n_06309": {
+      "message": "Sveiki, tai „__app_name__“"
+   },
+   "cj_i18n_06311": {
+      "message": "Patvirtinti"
+   },
+   "cj_i18n_06640": {
+      "message": "Telefonas"
+   },
+   "cj_i18n_06647": {
+      "message": "Greitoji prieiga"
+   },
+   "cj_i18n_06701": {
+      "message": "Parduotuvė"
+   },
+   "cj_i18n_06960": {
+      "message": "Mano AdMob puslapis"
+   }
+}

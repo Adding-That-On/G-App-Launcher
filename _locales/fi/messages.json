@@ -1,0 +1,473 @@
+{
+   "cj_i18n_00002": {
+      "message": "Jaettu kanssani"
+   },
+   "cj_i18n_00005": {
+      "message": "Roskakori"
+   },
+   "cj_i18n_00061": {
+      "message": "Tutki"
+   },
+   "cj_i18n_00081": {
+      "message": "Muistutukset"
+   },
+   "cj_i18n_00085": {
+      "message": "Haku"
+   },
+   "cj_i18n_00097": {
+      "message": "Pudota tänne poistaaksesi"
+   },
+   "cj_i18n_00112": {
+      "message": "Sivustot"
+   },
+   "cj_i18n_00131": {
+      "message": "Kirjasto"
+   },
+   "cj_i18n_00153": {
+      "message": "Trendaavat"
+   },
+   "cj_i18n_00154": {
+      "message": "Tilaukset"
+   },
+   "cj_i18n_00155": {
+      "message": "Historia"
+   },
+   "cj_i18n_00183": {
+      "message": "Ilmoitukset"
+   },
+   "cj_i18n_00203": {
+      "message": "Uudet julkaisut"
+   },
+   "cj_i18n_00216": {
+      "message": "Sovellukset"
+   },
+   "cj_i18n_00219": {
+      "message": "Musiikki"
+   },
+   "cj_i18n_00292": {
+      "message": "Kokoelmat"
+   },
+   "cj_i18n_00293": {
+      "message": "Yhteisöt"
+   },
+   "cj_i18n_00294": {
+      "message": "Profiili"
+   },
+   "cj_i18n_00295": {
+      "message": "Henkilöt"
+   },
+   "cj_i18n_00296": {
+      "message": "Ilmoitukset"
+   },
+   "cj_i18n_00298": {
+      "message": "Asetukset"
+   },
+   "cj_i18n_00302": {
+      "message": "Kalenteri"
+   },
+   "cj_i18n_00314": {
+      "message": "Yhteystiedot"
+   },
+   "cj_i18n_00353": {
+      "message": "Osallistu"
+   },
+   "cj_i18n_00414": {
+      "message": "Lennot"
+   },
+   "cj_i18n_00418": {
+      "message": "Keskusteluryhmät"
+   },
+   "cj_i18n_00425": {
+      "message": "Uutiset"
+   },
+   "cj_i18n_00429": {
+      "message": "Valokuvat"
+   },
+   "cj_i18n_00434": {
+      "message": "Haku"
+   },
+   "cj_i18n_00438": {
+      "message": "Ohje"
+   },
+   "cj_i18n_00440": {
+      "message": "Kääntäjä"
+   },
+   "cj_i18n_00441": {
+      "message": "Trendit"
+   },
+   "cj_i18n_00460": {
+      "message": "Kirjat"
+   },
+   "cj_i18n_00464": {
+      "message": "Laajennukset"
+   },
+   "cj_i18n_00465": {
+      "message": "Teemat"
+   },
+   "cj_i18n_00480": {
+      "message": "Elokuvat"
+   },
+   "cj_i18n_00481": {
+      "message": "Tili"
+   },
+   "cj_i18n_00484": {
+      "message": "Tapahtumat"
+   },
+   "cj_i18n_00488": {
+      "message": "Kuvahaku"
+   },
+   "cj_i18n_00500": {
+      "message": "Hakuasetukset"
+   },
+   "cj_i18n_00509": {
+      "message": "Videot"
+   },
+   "cj_i18n_00510": {
+      "message": "Analytiikat"
+   },
+   "cj_i18n_00603": {
+      "message": "Synkronointi"
+   },
+   "cj_i18n_00616": {
+      "message": "Holvi"
+   },
+   "cj_i18n_00621": {
+      "message": "YouTube trendit"
+   },
+   "cj_i18n_00623": {
+      "message": "Suoratoisto"
+   },
+   "cj_i18n_00624": {
+      "message": "Yhteisö"
+   },
+   "cj_i18n_00625": {
+      "message": "Kanava"
+   },
+   "cj_i18n_00692": {
+      "message": "Suosikit"
+   },
+   "cj_i18n_00737": {
+      "message": "YouTube työpaikat"
+   },
+   "cj_i18n_00759": {
+      "message": "YouTuben sisällöntuottajien yhteisö"
+   },
+   "cj_i18n_00761": {
+      "message": "YouTuben sisällöntuottajien palveluiden hakemisto"
+   },
+   "cj_i18n_00762": {
+      "message": "Seuraavaksi"
+   },
+   "cj_i18n_00800": {
+      "message": "Tallennetut salasanat"
+   },
+   "cj_i18n_00807": {
+      "message": "Minun kirjastoni"
+   },
+   "cj_i18n_00821": {
+      "message": "Arkisto"
+   },
+   "cj_i18n_00838": {
+      "message": "Tietoja asetuksista"
+   },
+   "cj_i18n_00840": {
+      "message": "YouTube TV:ssä"
+   },
+   "cj_i18n_00856": {
+      "message": "Chromium-käyttöjärjestelmä"
+   },
+   "cj_i18n_00878": {
+      "message": "Esteettömyys"
+   },
+   "cj_i18n_00901": {
+      "message": "Tietosuoja"
+   },
+   "cj_i18n_00930": {
+      "message": "Kokeilut"
+   },
+   "cj_i18n_01002": {
+      "message": "YouTube artisteille"
+   },
+   "cj_i18n_01039": {
+      "message": "Videon laadun ilmoitus"
+   },
+   "cj_i18n_01057": {
+      "message": "YouTube musiikki"
+   },
+   "cj_i18n_01059": {
+      "message": "YouTube lapset"
+   },
+   "cj_i18n_01061": {
+      "message": "Musiikki tilastot"
+   },
+   "cj_i18n_01068": {
+      "message": "Pelit"
+   },
+   "cj_i18n_01075": {
+      "message": "Palkkiot"
+   },
+   "cj_i18n_01077": {
+      "message": "Yhteistyökumppanit"
+   },
+   "cj_i18n_01107": {
+      "message": "Viimeksi katsotut"
+   },
+   "cj_i18n_01143": {
+      "message": "YouTube mainostaminen"
+   },
+   "cj_i18n_01150": {
+      "message": "Sivut"
+   },
+   "cj_i18n_01152": {
+      "message": "Raportit"
+   },
+   "cj_i18n_01153": {
+      "message": "Optimisointi"
+   },
+   "cj_i18n_01154": {
+      "message": "Maksut"
+   },
+   "cj_i18n_01186": {
+      "message": "Kommentit"
+   },
+   "cj_i18n_01196": {
+      "message": "Soittolistat"
+   },
+   "cj_i18n_01204": {
+      "message": "Musiikki"
+   },
+   "cj_i18n_01218": {
+      "message": "Uutiset"
+   },
+   "cj_i18n_01220": {
+      "message": "Suora"
+   },
+   "cj_i18n_01363": {
+      "message": "Tallenna"
+   },
+   "cj_i18n_01372": {
+      "message": "Tallennetut haut"
+   },
+   "cj_i18n_01506": {
+      "message": "Tili"
+   },
+   "cj_i18n_01507": {
+      "message": "Kirjaudu ulos"
+   },
+   "cj_i18n_01518": {
+      "message": "Osoitteet"
+   },
+   "cj_i18n_01532": {
+      "message": "Ohje"
+   },
+   "cj_i18n_01544": {
+      "message": "Kirjaudu sisään"
+   },
+   "cj_i18n_01616": {
+      "message": "Sulje"
+   },
+   "cj_i18n_01619": {
+      "message": "Etsi ja käynnistä"
+   },
+   "cj_i18n_01620": {
+      "message": "Piilota"
+   },
+   "cj_i18n_01621": {
+      "message": "Lisää pikanäppäin"
+   },
+   "cj_i18n_01622": {
+      "message": "Lataa"
+   },
+   "cj_i18n_01624": {
+      "message": "Valitse pikanäppäimet"
+   },
+   "cj_i18n_01629": {
+      "message": "Uusin"
+   },
+   "cj_i18n_01631": {
+      "message": "Järjestä A-Ö"
+   },
+   "cj_i18n_01632": {
+      "message": "Poista kaikki pikanäppäimet"
+   },
+   "cj_i18n_01633": {
+      "message": "Lisää oma pikanäppäin"
+   },
+   "cj_i18n_01634": {
+      "message": "Ehdota puutosta"
+   },
+   "cj_i18n_01636": {
+      "message": "Avaa pikanäppäimet uudessa välilehdessä"
+   },
+   "cj_i18n_01640": {
+      "message": "Näytä haku- ja käynnistyslaatikko"
+   },
+   "cj_i18n_01641": {
+      "message": "Näytä asetuspainike"
+   },
+   "cj_i18n_01642": {
+      "message": "Ulkoasu"
+   },
+   "cj_i18n_01644": {
+      "message": "Automaattinen"
+   },
+   "cj_i18n_01645": {
+      "message": "Vaakasuora"
+   },
+   "cj_i18n_01649": {
+      "message": "Piilota otsikot"
+   },
+   "cj_i18n_01653": {
+      "message": "Hallitse asetuksia"
+   },
+   "cj_i18n_01655": {
+      "message": "Tuo asetukset Shortcuts for Google™:sta"
+   },
+   "cj_i18n_01656": {
+      "message": "Vie asetukset"
+   },
+   "cj_i18n_01659": {
+      "message": "Peruuta"
+   },
+   "cj_i18n_01662": {
+      "message": "Valitse tiedosto"
+   },
+   "cj_i18n_01663": {
+      "message": "Asetukset tuotiin onnistuneesti"
+   },
+   "cj_i18n_01664": {
+      "message": "Lataa uudelleen asetussivu"
+   },
+   "cj_i18n_01666": {
+      "message": "Poista"
+   },
+   "cj_i18n_01667": {
+      "message": "Poista oma pikanäppäin"
+   },
+   "cj_i18n_01669": {
+      "message": "Poista pikanäppäin"
+   },
+   "cj_i18n_01672": {
+      "message": "Osoite"
+   },
+   "cj_i18n_01673": {
+      "message": "Kuvakkeen osoite (valinnainen)"
+   },
+   "cj_i18n_01674": {
+      "message": "Pikanäppäimen nimi"
+   },
+   "cj_i18n_01707": {
+      "message": "Urheilu"
+   },
+   "cj_i18n_01709": {
+      "message": "Alkuperäiset"
+   },
+   "cj_i18n_01716": {
+      "message": "Elokuvat & sarjat"
+   },
+   "cj_i18n_01719": {
+      "message": "Valitse yli 1000+ Google™ oikopolusta"
+   },
+   "cj_i18n_01736": {
+      "message": "Tuonti epäonnistui"
+   },
+   "cj_i18n_01761": {
+      "message": "Muokkaa pikanäppäintä"
+   },
+   "cj_i18n_01900": {
+      "message": "Lisää asetuksia"
+   },
+   "cj_i18n_01928": {
+      "message": "Soitto ja suorituskyky"
+   },
+   "cj_i18n_01929": {
+      "message": "Muoti"
+   },
+   "cj_i18n_01946": {
+      "message": "Sallii sinulle pääsyn Google Sovellukseen"
+   },
+   "cj_i18n_01950": {
+      "message": "Palauta asetukset"
+   },
+   "cj_i18n_01952": {
+      "message": "Muokkaa omaa pikanäppäintä"
+   },
+   "cj_i18n_01990": {
+      "message": "Nimi"
+   },
+   "cj_i18n_04776": {
+      "message": "Tekijänoikeudet"
+   },
+   "cj_i18n_05388": {
+      "message": "Yleistä"
+   },
+   "cj_i18n_06296": {
+      "message": "Kaupallistaminen"
+   },
+   "cj_i18n_06297": {
+      "message": "Äänikirjasto"
+   },
+   "cj_i18n_06309": {
+      "message": "Tervetuloa __app_name__ en"
+   },
+   "cj_i18n_06311": {
+      "message": "Vahvist"
+   },
+   "cj_i18n_06398": {
+      "message": "Tuo asetukset Shortcuts for Google™:sta"
+   },
+   "cj_i18n_06554": {
+      "message": "YouTube oppiminen"
+   },
+   "cj_i18n_06640": {
+      "message": "Puhelin"
+   },
+   "cj_i18n_06702": {
+      "message": "HuuliSynkkaus"
+   },
+   "cj_i18n_06718": {
+      "message": "Olotila & tyylilajit"
+   },
+   "cj_i18n_06930": {
+      "message": "Sisältö"
+   },
+   "cj_i18n_06932": {
+      "message": "Mukauttaminen"
+   },
+   "cj_i18n_06933": {
+      "message": "Lataa videoita"
+   },
+   "cj_i18n_06943": {
+      "message": "Elokuvasi"
+   },
+   "cj_i18n_06948": {
+      "message": "Selaa kanavia"
+   },
+   "cj_i18n_06952": {
+      "message": "Oppiminen"
+   },
+   "cj_i18n_06955": {
+      "message": "Maksetut jäsenyydet"
+   },
+   "cj_i18n_06961": {
+      "message": "Listat"
+   },
+   "cj_i18n_06965": {
+      "message": "Auta paikallistamisessa"
+   },
+   "cj_i18n_07047": {
+      "message": "Pelaa Academyä"
+   },
+   "cj_i18n_07048": {
+      "message": "Ohjeet Androidille"
+   },
+   "cj_i18n_07049": {
+      "message": "Ohjeet Googlelle iPhonella"
+   },
+   "cj_i18n_07050": {
+      "message": "Sovelletut digitaaliset taidot"
+   },
+   "cj_i18n_07054": {
+      "message": "Ohjeet Google Pixelille"
+   }
+}
